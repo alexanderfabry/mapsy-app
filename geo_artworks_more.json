@@ -1,0 +1,4930 @@
+[
+    {
+        "geo_artwork": {
+            "slug": "liyen-chong-body-without-organs",
+            "lat": "-41.2873142",
+            "lng": "174.7766232",
+            "title": "Body Without Organs",
+            "artist": "Liyen Chong",
+            "year": "2010",
+            "medium": "Artist's hair embroidered on acrylic backed cotton",
+            "dimensions": "12 1/2 × 8 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/50096fec1edefe00020002c9/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "emily-wolfe-decoy-iii",
+            "lat": "-41.2873142",
+            "lng": "174.7766232",
+            "title": "Decoy III",
+            "artist": "Emily Wolfe",
+            "year": "2006",
+            "medium": "Oil on linen",
+            "dimensions": "76 × 86 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/500970a841814f0002000262/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "nicholas-harding-estuary-figures-ball-and-bat",
+            "lat": "-33.888189",
+            "lng": "151.235321",
+            "title": "Estuary figures (ball and bat)",
+            "artist": "Nicholas Harding",
+            "year": "2012",
+            "medium": "oil on Belgian linen",
+            "dimensions": "138 × 138 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5125a1f6f0b1b13aa900030b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "karin-lambrecht-mundu",
+            "lat": "-23.576375",
+            "lng": "-46.6791737",
+            "title": "Mundu",
+            "artist": "Karin Lambrecht",
+            "year": "2011/2012",
+            "medium": "pigmentos em emulsãoacrílica, chuva e marcasde pedras comcaligrafias de pastelseco sobre lona",
+            "dimensions": "200 × 240 cm",
+            "price": "R$ 81000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4fe24efd62acc20001000a2c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "marcelo-silveira-kaleidoscope-7",
+            "lat": "-23.576375",
+            "lng": "-46.6791737",
+            "title": "Kaleidoscope",
+            "artist": "Marcelo Silveira",
+            "year": "2011/2012",
+            "medium": "Colored plastic rulers and stainless steel",
+            "dimensions": "28 × 20 × 6 cm",
+            "price": "R$ 10000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4f6e090842b6900001000cdd/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "marcos-chaves-mar-ave-ilha",
+            "lat": "-23.576375",
+            "lng": "-46.6791737",
+            "title": "Mar Ave Ilha",
+            "artist": "Marcos Chaves",
+            "year": "2011",
+            "medium": "Photograph, metacrylate",
+            "dimensions": "115 × 379 cm",
+            "price": "R$ 45000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f4bc41152f1420001001243/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jose-patricio-conjuntos-em-progressao-decrescente",
+            "lat": "-23.576375",
+            "lng": "-46.6791737",
+            "title": "Conjuntos em progressão decrescente",
+            "artist": "José Patrício",
+            "year": "2011",
+            "medium": "Synthetic enamel on plastic puzzle pieces on wood",
+            "dimensions": "180 × 180 cm",
+            "price": "R$ 200000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4fb53e42a2df3a0001000f1c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "richard-deacon-beware-of-thedog-number-3",
+            "lat": "1.291062",
+            "lng": "103.840279",
+            "title": "Beware Of TheDog #3",
+            "artist": "Richard Deacon",
+            "year": "2012",
+            "medium": "Coloured STPI handmade paper",
+            "dimensions": "130 × 167 cm",
+            "price": "$13000",
+            "image_url": "http://stagic1.artsy.net/additional_images/50773229f47b6f0002000349/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jim-lambie-sonic-reducer-38",
+            "lat": "22.2799907",
+            "lng": "114.1587983",
+            "title": "Sonic Reducer 38",
+            "artist": "Jim Lambie",
+            "year": "2008",
+            "medium": "Concrete block, album covers",
+            "dimensions": "33 × 33 × 33 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/516f0bbdef91aab7d800011a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "andre-dubreuil-fabrique-en-chine-dike-shoe",
+            "lat": "22.2799907",
+            "lng": "114.1587983",
+            "title": "Fabrique en Chine - Dike Shoe",
+            "artist": "André Dubreuil",
+            "year": "2010",
+            "medium": "Porcelain",
+            "dimensions": "5 9/10 × 11 4/5 × 4 3/10 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/50ef2e5b4ebdbc36fd000b29/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "farzan-sadjadi-prison-on-fire",
+            "lat": "25.271139",
+            "lng": "55.307485",
+            "title": "Prison On Fire",
+            "artist": "Farzan Sadjadi",
+            "year": "2009-2010",
+            "medium": "Household paint on canvas",
+            "dimensions": "100 × 150 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/50c5ef39e3a284d152000977/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "philip-mueller-babyblue",
+            "lat": "25.271139",
+            "lng": "55.307485",
+            "title": "Babyblue",
+            "artist": "Philip Mueller",
+            "year": "2012",
+            "medium": "acrylic and lacquer on canvas",
+            "dimensions": "210 × 310 cm",
+            "price": "€5,000 - €7,500",
+            "image_url": "http://stagic1.artsy.net/additional_images/50c4967dad38f67f45000c84/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "hazem-mahdy-untitled-06",
+            "lat": "25.271139",
+            "lng": "55.307485",
+            "title": "Untitled 06",
+            "artist": "Hazem Mahdy",
+            "year": "2012",
+            "medium": "Giclée print",
+            "dimensions": "50 × 50 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/50ca3ae1d291944abc0005cc/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "daniel-milewski-clapton-is-god",
+            "lat": "25.7991029",
+            "lng": "-80.1988678",
+            "title": "Clapton is God",
+            "artist": "Daniel Milewski",
+            "year": "2009",
+            "medium": "Paint on Drywall",
+            "dimensions": "72 × 36 in",
+            "price": "$3000",
+            "image_url": "http://stagic0.artsy.net/additional_images/508c3cf55ee04100020005e2/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "zeng-li-ming-king-tomb",
+            "lat": "31.232352",
+            "lng": "121.49229",
+            "title": "Ming King Tomb",
+            "artist": "Zeng Li",
+            "year": "2003",
+            "medium": "Color photograph",
+            "dimensions": "47 3/10 × 59 1/10 in",
+            "price": "$2,000 - $2,500",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e6d84618c569c000102969b/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "feng-mengbo-jttw2010v06",
+            "lat": "31.232352",
+            "lng": "121.49229",
+            "title": "JTTW2010V06",
+            "artist": "Feng Mengbo",
+            "year": "2010",
+            "medium": "Chinese ink, tea and inkjet on xuan paper",
+            "dimensions": "59 1/10 × 29 3/5 in",
+            "price": "¥100,000 - ¥200,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e835fac9cd58d000100bc8d/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "qiu-zhijie-flowing-image-40",
+            "lat": "31.232352",
+            "lng": "121.49229",
+            "title": "Flowing Image",
+            "artist": "Qiu Zhijie",
+            "year": "2011",
+            "medium": "Ink on silk",
+            "dimensions": "80 × 150 cm",
+            "price": "$17250",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e8348b8758739000100abab/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "hu-xiaoyuan-drown-dust",
+            "lat": "31.241796",
+            "lng": "121.48726",
+            "title": "Drown Dust",
+            "artist": "Hu Xiaoyuan",
+            "year": "2012",
+            "medium": "3-channel video",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/50e934fc83cdf5e56c000bde/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "nedko-solakov-the-flying-saucer-and-the-cloud",
+            "lat": "32.0562591",
+            "lng": "34.7569785",
+            "title": "The Flying Saucer and the Cloud",
+            "artist": "Nedko Solakov",
+            "year": "2012",
+            "medium": " Acrylic and black drawing ink on gilded carved lime wood",
+            "dimensions": "55 × 62 × 12 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/509bb5e4adb5b20002000673/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sigmar-polke-hohere-wesen-befehlen-4",
+            "lat": "32.788519",
+            "lng": "-96.801127",
+            "title": ". . . Höhere Wesen befehlen",
+            "artist": "Sigmar Polke",
+            "year": "1968",
+            "medium": "4 drawings: pencil and watercolor on paper 14 offset lithographs",
+            "dimensions": "8 1/4 × 5 3/4 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/504e693bb8fb020002000aba/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "manuel-alvarez-bravo-huichol-violin",
+            "lat": "32.788519",
+            "lng": "-96.801127",
+            "title": "Huichol Violin",
+            "artist": "Manuel Alvarez Bravo",
+            "year": "1965",
+            "medium": "Gelatin silver print",
+            "dimensions": "10 × 8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/504e660a3e003600020008e9/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "hans-bellmer-les-bas-rayes-from-an-american-portrait-volume-ii-not-songs-of-loyalty-alone",
+            "lat": "32.788519",
+            "lng": "-96.801127",
+            "title": "Les Bas Rayes from An American Portrait, Volume II: Not Songs of Loyalty Alone",
+            "artist": "Hans Bellmer",
+            "year": "1975",
+            "medium": "Lithograph",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/504e668cb8fb0200020009d0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "juliao-sarmento-limping-duck",
+            "lat": "34.0157299",
+            "lng": "-118.2480254",
+            "title": "Limping Duck",
+            "artist": "Julião Sarmento",
+            "year": "2007",
+            "medium": "Mixografia print on handmade paper, graphite",
+            "dimensions": "35 × 35 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/508f10355a8c8c00020005a0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "wayne-white-crapola",
+            "lat": "34.0329988",
+            "lng": "-118.374881",
+            "title": "Crapola",
+            "artist": "Wayne White",
+            "year": "2009",
+            "medium": "acrylic and offset lithograph in artist frame",
+            "dimensions": "36 1/2 × 47 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4ec3eb6a43b87100010009dc/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jonathan-seliger-true-to-form",
+            "lat": "34.0331789",
+            "lng": "-118.374812",
+            "title": "True to Form",
+            "artist": "Jonathan Seliger",
+            "year": "2012",
+            "medium": "Automobile enamel on bronze",
+            "dimensions": "18 × 18 × 7 in",
+            "price": "$10,000 - $15,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/5126bdee2732ac94c5000268/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "robert-motherwell-st-michael-iii",
+            "lat": "34.053513",
+            "lng": "-118.463152",
+            "title": "St. Michael III",
+            "artist": "Robert Motherwell",
+            "year": "1979",
+            "medium": "Lithograph and screenprint",
+            "dimensions": "41 1/2 × 31 1/2 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/50d262fc6fd6948c2a0018b3/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "tom-blackwell-surf-club",
+            "lat": "34.06188",
+            "lng": "-118.414114",
+            "title": "Surf Club",
+            "artist": "Tom Blackwell",
+            "year": "2010",
+            "medium": "Oil on canvas",
+            "dimensions": "6 × 9 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5140d1f142b1301aca0001b6/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "tom-blackwell-parking-at-tommy-bahamas",
+            "lat": "34.06188",
+            "lng": "-118.414114",
+            "title": "Parking at Tommy Bahama's",
+            "artist": "Tom Blackwell",
+            "year": "2010",
+            "medium": "Oil on canvas",
+            "dimensions": "6 × 9 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5140d1815af79915b900020d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jim-dine-the-blue-sky-wingo",
+            "lat": "34.06188",
+            "lng": "-118.414114",
+            "title": "The Blue-Sky Wingo",
+            "artist": "Jim Dine",
+            "year": "2012",
+            "medium": "Acrylic, sand and charcoal on linen",
+            "dimensions": "120 1/5 × 105 9/10 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5140d512bf12487ca00001d0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "kent-bellows-christina-february-1997",
+            "lat": "34.0657105",
+            "lng": "-118.4114583",
+            "title": "Christina: February, 1997",
+            "artist": "Kent Bellows",
+            "year": "1997",
+            "medium": "Pencil on paper",
+            "dimensions": "21 × 13 3/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e81281f89f0d0000100d10f/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alan-feltus-mermaid-story",
+            "lat": "34.0657105",
+            "lng": "-118.4114583",
+            "title": "Mermaid Story",
+            "artist": "Alan Feltus",
+            "year": "2003",
+            "medium": "Oil on Canvas",
+            "dimensions": "31 1/2 × 43 1/4 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e6ed40e7facad00010044ac/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mark-podwal-good-and-evil",
+            "lat": "34.0657105",
+            "lng": "-118.4114583",
+            "title": "Good and Evil",
+            "artist": "Mark Podwal",
+            "year": "2008",
+            "medium": "Acrylic, gouache and colored pencil on paper",
+            "dimensions": "7 1/2 × 5 3/4 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e81277289f0d0000100c131/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "robert-bauer-orlando-ii",
+            "lat": "34.0657105",
+            "lng": "-118.4114583",
+            "title": "Orlando II",
+            "artist": "Robert Bauer",
+            "year": "2001",
+            "medium": "Graphite over Gesso on Paper",
+            "dimensions": "10 × 8 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e81242589f0d00001007f30/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "helen-rebekah-garber-bride-iii",
+            "lat": "34.066589",
+            "lng": "-118.2382615",
+            "title": "Bride III",
+            "artist": "Helen Rebekah Garber",
+            "year": "2012",
+            "medium": "Oil on Canvas",
+            "dimensions": "72 × 60 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/506df51f3979ff00020004b9/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "retna-i-see-you-looking-but-you-cant-see-me",
+            "lat": "34.0762141",
+            "lng": "-118.3656823",
+            "title": "I see you looking but you can't see me",
+            "artist": "Retna",
+            "year": "2013",
+            "medium": "Enamel and acrylic on canvas",
+            "dimensions": "72 × 72 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/512519292aac6e56ab00074a/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "bruce-conner-sketch-for-a-sculpture",
+            "lat": "34.0762141",
+            "lng": "-118.3656823",
+            "title": "Sketch for a Sculpture",
+            "artist": "Bruce Conner",
+            "year": "1963",
+            "medium": "Ink on paper",
+            "dimensions": "23 7/8 × 17 5/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4eddc03b2b350f000100253d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "robert-frank-parade-hoboken-new-jersey",
+            "lat": "34.083233",
+            "lng": "-118.382393",
+            "title": "Parade - Hoboken, New Jersey",
+            "artist": "Robert Frank",
+            "year": "1955",
+            "medium": "Gelatin silver print",
+            "dimensions": "11 × 13 7/8 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4ed3a715d0e5ec0001008397/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "polly-apfelbaum-when-opposites-attract",
+            "lat": "35.0808645",
+            "lng": "-106.6182665",
+            "title": "When Opposites Attract",
+            "artist": "Polly Apfelbaum",
+            "year": "2007",
+            "medium": "One-Color Lithograph, Two Sheets",
+            "dimensions": "11 1/4 × 8 in",
+            "price": "Under $1,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/50abe07728b3b5ce6e001ec1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "liliana-porter-broken",
+            "lat": "35.0808645",
+            "lng": "-106.6182665",
+            "title": "Broken",
+            "artist": "Liliana Porter",
+            "year": "2000",
+            "medium": "Five-Color Lithograph",
+            "dimensions": "13 × 11 in",
+            "price": "$900",
+            "image_url": "http://stagic3.artsy.net/additional_images/5101b83cad9e51848e00002f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "william-bailey-viale",
+            "lat": "37.7855416",
+            "lng": "-122.3989585",
+            "title": "Viale",
+            "artist": "William Bailey",
+            "year": "2002",
+            "medium": "Hard ground and soft ground etching with aquatint",
+            "dimensions": "26 × 28 in",
+            "price": "$1500",
+            "image_url": "http://stagic0.artsy.net/additional_images/515f63a7dc361b218d00006f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "darren-almond-civil-dawn-1-1",
+            "lat": "37.7855416",
+            "lng": "-122.3989585",
+            "title": "Civil Dawn 1",
+            "artist": "Darren Almond",
+            "year": "2010",
+            "medium": "Photogravure printed on gampi paper chine collé",
+            "dimensions": "10 × 10 in",
+            "price": "$2000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fa15441ce375a0001002e2b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mary-heilmann-21st-century-fox",
+            "lat": "37.7855416",
+            "lng": "-122.3989585",
+            "title": "21st Century Fox",
+            "artist": "Mary Heilmann",
+            "year": "1998",
+            "medium": "Color spit bite aquatint with soft ground etching and aquatint",
+            "dimensions": "29 1/2 × 21 1/2 in",
+            "price": "$3500",
+            "image_url": "http://stagic0.artsy.net/additional_images/515ddd455eeb1c904c005051/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "amy-sillman-s-and-e",
+            "lat": "37.7855416",
+            "lng": "-122.3989585",
+            "title": "S&E",
+            "artist": "Amy Sillman",
+            "year": "2007",
+            "medium": "",
+            "dimensions": "35 × 28 in",
+            "price": "$3000",
+            "image_url": "http://stagic0.artsy.net/additional_images/511d678fb31934467b00067d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "paul-kos-salt-stripes",
+            "lat": "37.7879519",
+            "lng": "-122.4038023",
+            "title": "Salt Stripes",
+            "artist": "Paul Kos",
+            "year": "1968",
+            "medium": "Gelatin-Silver Print",
+            "dimensions": "9 1/2 × 7 1/2 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/51759f5a78b4f0050000010b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "isca-greenfield-sanders-waterfall",
+            "lat": "37.7889453",
+            "lng": "-122.4053056",
+            "title": "Waterfall",
+            "artist": "Isca Greenfield-Sanders",
+            "year": "2011",
+            "medium": "Mixed media oil on canvas",
+            "dimensions": "35 × 35 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/514896955c844917990001dc/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "joan-miro-paysage-meurtrier",
+            "lat": "37.8336281",
+            "lng": "-122.2029832",
+            "title": "Paysage Meurtrier",
+            "artist": "Joan Miró",
+            "year": "1938",
+            "medium": "soft ground etching and drypoint on parchment",
+            "dimensions": "4 1/16 × 3 in",
+            "price": "$16000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f8da10ae13d9c00010004ad/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "paul-landacre-desert-storm",
+            "lat": "37.8336281",
+            "lng": "-122.2029832",
+            "title": "Desert Storm",
+            "artist": "Paul Landacre",
+            "year": "1932",
+            "medium": "wood engraving on wove paper, full margins",
+            "dimensions": "6 × 7 7/8 in",
+            "price": "$4200",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f8da0f808571600010003e3/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mary-cassatt-little-girl-in-a-blue-armchair",
+            "lat": "38.892084",
+            "lng": "-77.0175602",
+            "title": "Little Girl in a Blue Armchair",
+            "artist": "Mary Cassatt",
+            "year": "1878",
+            "medium": "Oil on canvas",
+            "dimensions": "89 1/2 × 129 4/5 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f99d23b93d5b900010004c1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "maarten-de-ceulaer-big-stool",
+            "lat": "38.901298",
+            "lng": "-76.986029",
+            "title": "Big Stool",
+            "artist": "Maarten de Ceulaer",
+            "year": "2012",
+            "medium": "Foam spheres around wood structure, finished with polyurethane coating",
+            "dimensions": "46 × 48 × 52 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/50b0394890d6e2488b00011f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "thomas-w-benton-and-hunter-s-thompson-censored-aspen-wallposter-number-5",
+            "lat": "39.188498",
+            "lng": "-106.817977",
+            "title": "Censored Aspen Wallposter #5 ",
+            "artist": "Thomas W. Benton and Hunter S. Thompson",
+            "year": "January 1971",
+            "medium": "",
+            "dimensions": "22 × 15 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/50b93e3b19ede140de001bc7/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "chalcidian-type-helmet",
+            "lat": "39.2964285",
+            "lng": "-76.6165111",
+            "title": "Chalcidian-Type Helmet",
+            "artist": "",
+            "year": "ca. 500 B.C.",
+            "medium": "Bronze ",
+            "dimensions": "11 7/8 × 7 5/16 × 9 1/4 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5035a6159e387b00020008fb/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "abu-al-fazl-ibn-mubarak-single-leaf-from-akbarnama-by-abu-fazl",
+            "lat": "39.2964285",
+            "lng": "-76.6165111",
+            "title": "Single Leaf from Akbarnama by Abu Fazl",
+            "artist": "Abu al-Fazl ibn Mubarak",
+            "year": "16th Century ",
+            "medium": "Ink and pigments on paper ",
+            "dimensions": "34 1/2 × 22 1/5 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5035a217aadc31000200084f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "head-of-an-old-testament-king",
+            "lat": "39.2964285",
+            "lng": "-76.6165111",
+            "title": "Head of an Old Testament King",
+            "artist": "",
+            "year": "ca. 1140",
+            "medium": "Limestone",
+            "dimensions": "14 3/8 × 9 1/16 × 8 3/4 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5035a2b9f852da00020007d0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "portrait-of-a-nobleman",
+            "lat": "39.8252813",
+            "lng": "-86.1857915",
+            "title": "Portrait of a Nobleman",
+            "artist": "",
+            "year": "1570",
+            "medium": "Oil on wood",
+            "dimensions": "21 1/4 × 17 5/8 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/50460274da05dd000200028e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "francisco-rizi-the-dream-of-st-joseph",
+            "lat": "39.8252813",
+            "lng": "-86.1857915",
+            "title": "The Dream of St. Joseph",
+            "artist": "Francisco Rizi",
+            "year": "ca. 1665",
+            "medium": "Oil on canvas",
+            "dimensions": "66 × 44 3/8 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/50462bf0bf7e5a0002000585/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "rhyton-in-the-form-of-a-zebu-bull",
+            "lat": "39.8252813",
+            "lng": "-86.1857915",
+            "title": "Rhyton in the form of a Zebu bull",
+            "artist": "",
+            "year": "ca. 1000-800 B.C.",
+            "medium": "Earthenware",
+            "dimensions": "9 1/2 × 12 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/504612e90827c100020004c2/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jose-de-ribera-jusepe-de-ribera-lo-spagnoletto-aristotle",
+            "lat": "39.8252813",
+            "lng": "-86.1857915",
+            "title": "Aristotle",
+            "artist": "José de Ribera (Jusepe de Ribera, lo Spagnoletto)",
+            "year": "1637",
+            "medium": "Oil on canvas",
+            "dimensions": "49 × 39 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/505880731f6584000200019c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "george-wesley-bellows-a-stag-at-sharkeys",
+            "lat": "39.8252813",
+            "lng": "-86.1857915",
+            "title": "A Stag at Sharkey's",
+            "artist": "George Wesley Bellows",
+            "year": "1917",
+            "medium": "Lithograph",
+            "dimensions": "18 5/8 × 23 7/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5044e9184975f2000200039c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "lin-tianmiao-two-and-the-same",
+            "lat": "39.9006414",
+            "lng": "116.4040108",
+            "title": "Two and the Same?",
+            "artist": "Lin Tianmiao",
+            "year": "2011",
+            "medium": "Linen cloth, cotton cloth, silk cloth, silk, polyurea, synthetic bones and branches",
+            "dimensions": "101 × 182 × 17 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4ffde9649cff8b000100236b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "li-huayi-waterfall",
+            "lat": "39.9006414",
+            "lng": "116.4040108",
+            "title": "Waterfall",
+            "artist": "Li Huayi",
+            "year": "2004",
+            "medium": "Ink and color on paper",
+            "dimensions": "97 × 180 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4ffe13aa2e4a2d0001002fa4/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "yan-lei-colour-wheel-no-dot-1-no-dot-9",
+            "lat": "39.921034",
+            "lng": "116.443188",
+            "title": "Colour-Wheel No.1-No.9",
+            "artist": "Yan Lei",
+            "year": "2010",
+            "medium": "Acrylic on canvas",
+            "dimensions": "80 × 80 cm",
+            "price": "$150000",
+            "image_url": "http://stagic1.artsy.net/additional_images/5127d5777cb0d33a460002c7/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sui-jianguo-made-in-china-pink",
+            "lat": "39.983476",
+            "lng": "116.488802",
+            "title": "Made in China (Pink)",
+            "artist": "Sui Jianguo",
+            "year": "2007",
+            "medium": "Synthetic Resin",
+            "dimensions": "85 × 68 × 50 in",
+            "price": "$7700",
+            "image_url": "http://stagic1.artsy.net/additional_images/5123b4bd819688e3f2000218/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "arthur-beecher-carles-portrait-of-katharine-rhoades",
+            "lat": "40.028216",
+            "lng": "-75.333966",
+            "title": "Portrait of Katharine Rhoades",
+            "artist": "Arthur Beecher Carles",
+            "year": "c. 1912",
+            "medium": "Oil on canvas",
+            "dimensions": "63 4/5 × 61 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/503bfb4f3f798e000200027e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "agnes-murray-roanheads-8",
+            "lat": "40.649615",
+            "lng": "-74.015266",
+            "title": "Roanheads 8",
+            "artist": "Agnes Murray",
+            "year": "2005",
+            "medium": "Monotype",
+            "dimensions": "20 × 26 in",
+            "price": "$600",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e810283e3ce4a0001002554/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "lauriston-avery-durriken",
+            "lat": "40.712186",
+            "lng": "-73.955775",
+            "title": "Durriken",
+            "artist": "Lauriston Avery",
+            "year": "2009",
+            "medium": "Flashe on Canvas",
+            "dimensions": "52 × 62 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e7e29f6bd9b860001005413/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "lauriston-avery-stiggur",
+            "lat": "40.712186",
+            "lng": "-73.955775",
+            "title": "Stiggur",
+            "artist": "Lauriston Avery",
+            "year": "2009",
+            "medium": "Flashe, paper and ground glass on canvas",
+            "dimensions": "89 × 72 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e7d39fd2877b000010000eb/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "frederic-edwin-church-south-american-landscape",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "South American Landscape",
+            "artist": "Frederic Edwin Church",
+            "year": "1854",
+            "medium": "Brush and oil paint, traces of graphite on thin paperboard",
+            "dimensions": "281 × 431 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5069ef9f953f03000200083e/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "kim-mccarty-untitled-girls-side",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "Untitled (Girl's Side)",
+            "artist": "Kim McCarty",
+            "year": "2007",
+            "medium": "Watercolor on paper",
+            "dimensions": "30 × 22 in",
+            "price": "$8125",
+            "image_url": "http://stagic3.artsy.net/additional_images/5151eac2019fe4e992000010/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "juste-aurele-meissonnier-mirior-de-toilette-5th-plate",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "Mirior de toilette, 5th Plate",
+            "artist": "Juste-Aurèle Meissonnier",
+            "year": "1740",
+            "medium": "Engraving on white laid paper",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/506dd9d07ea277000200025a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "juste-aurele-meissonnier-encensoir-5th-plate",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "Encensoir, 5th Plate",
+            "artist": "Juste-Aurèle Meissonnier",
+            "year": "1740",
+            "medium": "Engraving on white laid paper",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/506dd9db5169220002000278/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "thomas-schutte-united-enemies-2",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "United Enemies",
+            "artist": "Thomas Schütte",
+            "year": "Mar 5, 2013 – Aug 25, 2013",
+            "medium": "Bronze",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/51683be1ef3bd9e4f40001de/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "james-welling-torso-9-6",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "Torso 9-6",
+            "artist": "James Welling",
+            "year": "2005-2008",
+            "medium": "C-print",
+            "dimensions": "45 17/20 × 34 1/4 in",
+            "price": "$30000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4eb74c3cb5c60c00010011f9/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alexander-benois-the-bedroom-of-czarina-maria-alexandrovna-gatchina-palace-st-petersburg",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "The Bedroom of Czarina Maria Alexandrovna, Gatchina Palace, St. Petersburg",
+            "artist": "Alexander Benois",
+            "year": "1920s",
+            "medium": "Brush and watercolor and gouache, graphite, red chalk on white wove paper",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/507d70ed4054430002001f77/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "armchair",
+            "lat": "40.7143528",
+            "lng": "-74.0059731",
+            "title": "Armchair",
+            "artist": "",
+            "year": "ca. 1880",
+            "medium": "Elm, wicker, ivory",
+            "dimensions": "125 1/2 × 48 × 40 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/50a50721367bb54982000b80/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "patrick-keesey-painting-no-4-slash-blue-means-water",
+            "lat": "40.7155825",
+            "lng": "-73.990814",
+            "title": "painting no. 4 / blue means water",
+            "artist": "Patrick Keesey",
+            "year": "2011",
+            "medium": "Oil on linen",
+            "dimensions": "26 × 30 1/8 in",
+            "price": "$5000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e8126a289f0d0000100b2b1/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "christina-hejtmanek-hwy-30-south-through-arkansas-1",
+            "lat": "40.7155825",
+            "lng": "-73.990814",
+            "title": "Hwy. 30 South through Arkansas, 1",
+            "artist": "Christina Hejtmanek",
+            "year": "2007/09",
+            "medium": "C-print",
+            "dimensions": "29 3/4 × 44 5/8 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5102aec8a91360f4850000f4/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "justin-adian-goebbels-foible",
+            "lat": "40.7155825",
+            "lng": "-73.990814",
+            "title": "Goebbels Foible",
+            "artist": "Justin Adian",
+            "year": "2012",
+            "medium": "Oil enamel and spray paint on ester foam and canvas",
+            "dimensions": "100 × 15 × 5 1/2 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/506b62bd3877b00002001344/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "micah-ganske-tomorrow-land-waxahachie-texas",
+            "lat": "40.71637",
+            "lng": "-74.0077067",
+            "title": "Tomorrow Land: Waxahachie, Texas",
+            "artist": "Micah Ganske",
+            "year": "2012",
+            "medium": "Acrylic on muslin",
+            "dimensions": "44 × 57 in",
+            "price": "$15,000 - $20,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/515c738bcd4b8e3f7f000007/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "daniel-traub-philadelphia-lots-1",
+            "lat": "40.71637",
+            "lng": "-74.0077067",
+            "title": "Philadelphia Lots 1",
+            "artist": "Daniel Traub",
+            "year": "2012",
+            "medium": "C-Print",
+            "dimensions": "40 × 50 in",
+            "price": "$1,000 - $2,500",
+            "image_url": "http://stagic3.artsy.net/additional_images/515214f5be4f70d267000023/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jeff-zimmerman-unique-crinkled-sculptural-vessel-7",
+            "lat": "40.7180746",
+            "lng": "-74.0046111",
+            "title": "Unique crinkled sculptural vessel",
+            "artist": "Jeff Zimmerman",
+            "year": "2012",
+            "medium": "Hand-blown translucent glass",
+            "dimensions": "10 1/2 × 13 × 13 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/51195f6be99a3a94cb00026d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "renate-muller-small-therapeutic-toy-seal",
+            "lat": "40.7180746",
+            "lng": "-74.0046111",
+            "title": "Small Therapeutic Toy Seal",
+            "artist": "Renate Müller",
+            "year": "1969/2012",
+            "medium": "Purple jute, leather",
+            "dimensions": "10 1/2 × 11 × 10 in",
+            "price": "$1750",
+            "image_url": "http://stagic3.artsy.net/additional_images/50ad38b3aa1c26d983000aad/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "david-wiseman-unique-large-lattice-vase-containing-a-branch-with-bird-and-blossoms",
+            "lat": "40.7180746",
+            "lng": "-74.0046111",
+            "title": "Unique large Lattice vase containing a branch with bird and blossoms",
+            "artist": "David Wiseman",
+            "year": "2012",
+            "medium": "Bronze, porcelain",
+            "dimensions": "18 1/2 × 18 1/2 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5148e18ab3b625016c00003e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "torsten-slama-the-president-of-instrumentality",
+            "lat": "40.718558",
+            "lng": "-74.0040449",
+            "title": "The President of Instrumentality",
+            "artist": "Torsten Slama",
+            "year": "2004",
+            "medium": "Pencil on paper",
+            "dimensions": "40 × 28 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/512c04ee81f4df855f00001b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "maya-bloch-untitled-four-figures",
+            "lat": "40.7188404",
+            "lng": "-73.9873018",
+            "title": "Untitled (Four Figures)",
+            "artist": "Maya Bloch",
+            "year": "2009",
+            "medium": "Acrylic on Canvas",
+            "dimensions": "47 × 43 in",
+            "price": "$6,000 - $10,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e7f30b9f15cc80001015635/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "david-mramor-two-whites-dont-make-a-wrong",
+            "lat": "40.720128",
+            "lng": "-73.9893869",
+            "title": "Two Whites Don't Make A Wrong",
+            "artist": "David Mramor",
+            "year": "2013",
+            "medium": "acrylic, spray paint, pencil on printed canvas",
+            "dimensions": "30 × 40 in",
+            "price": "$2,500 - $5,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/514492537fa996500400022c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sam-baron-sr-sra-cardoso",
+            "lat": "40.7206536",
+            "lng": "-74.0029962",
+            "title": "Sr. Sra. Cardoso",
+            "artist": "Sam Baron",
+            "year": "2012",
+            "medium": "Hand-painted porcelain",
+            "dimensions": "10 3/4 × 6 1/2 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/50b404e475319c774900073b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "taylor-davis-this-pictur",
+            "lat": "40.7212706",
+            "lng": "-73.9924758",
+            "title": "this pictur",
+            "artist": "Taylor Davis",
+            "year": "2012",
+            "medium": "Watercolor on paper",
+            "dimensions": "18 3/8 × 14 1/2 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f9848d3bb8c2400010000d1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mason-saltarrelli-saint-barbara-at-night",
+            "lat": "40.7214334",
+            "lng": "-73.9937224",
+            "title": "Saint Barbara at Night",
+            "artist": "Mason Saltarrelli",
+            "year": "2011-2012",
+            "medium": "Oil, gesso and spray paint on canvas",
+            "dimensions": "92 × 61 in",
+            "price": "$10,000 - $15,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/513bae2304a5e8a1f70000d4/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "allen-grubesic-painting",
+            "lat": "40.7214334",
+            "lng": "-73.9937224",
+            "title": "Painting",
+            "artist": "Allen Grubesic",
+            "year": "2011",
+            "medium": "Vinyl and silkscreen on canvas",
+            "dimensions": "30 × 20 in",
+            "price": "$2,500 - $5,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4eb2f390e9bbd900010095ff/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "scott-zieher-untitled-20",
+            "lat": "40.7214334",
+            "lng": "-73.9937224",
+            "title": "Untitled 20",
+            "artist": "Scott Zieher",
+            "year": "2012",
+            "medium": "Collage",
+            "dimensions": "26 3/4 × 21 in",
+            "price": "$850",
+            "image_url": "http://stagic0.artsy.net/additional_images/5011ba0ab109e200020008a2/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "kim-keever-eroded-man-88g",
+            "lat": "40.7214334",
+            "lng": "-73.9937224",
+            "title": "Eroded Man 88g",
+            "artist": "Kim Keever",
+            "year": "2010",
+            "medium": "C-Print",
+            "dimensions": "27 × 24 in",
+            "price": "$2800",
+            "image_url": "http://stagic0.artsy.net/additional_images/4ee7acb757061e0001002005/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "bernhard-fuchs-roter-vw-transporter-red-vw-van-dusseldorf",
+            "lat": "40.724306",
+            "lng": "-74.009902",
+            "title": "Roter VW-Transporter (red VW van), Düsseldorf",
+            "artist": "Bernhard Fuchs",
+            "year": "2002",
+            "medium": "C-print",
+            "dimensions": "24 1/4 × 29 3/4 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e70c66de37ab5000100200c/2/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mel-ramos-100-grand",
+            "lat": "40.7250632",
+            "lng": "-73.9976946",
+            "title": "100 Grand",
+            "artist": "Mel Ramos",
+            "year": "2012",
+            "medium": "Oil on linen",
+            "dimensions": "36 × 24 in",
+            "price": "$275000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f562be5661dee00010008a4/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "herbert-bayer-self-portrait",
+            "lat": "40.7250632",
+            "lng": "-73.9976946",
+            "title": "Self-Portrait ",
+            "artist": "Herbert Bayer",
+            "year": "1932",
+            "medium": "Photograph ",
+            "dimensions": "33 × 26 1/5 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/5036dc1fa48aba00020001a4/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "hannah-hoch-da-dandy",
+            "lat": "40.7250632",
+            "lng": "-73.9976946",
+            "title": "Da-Dandy",
+            "artist": "Hannah Höch",
+            "year": "1919",
+            "medium": "Collage",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f90b1d2cc5d1b0001000d24/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "otto-dix-grossstadt-metropolis",
+            "lat": "40.7250632",
+            "lng": "-73.9976946",
+            "title": "Großstadt (Metropolis)",
+            "artist": "Otto Dix",
+            "year": "1927-28",
+            "medium": "Wood, distemper",
+            "dimensions": "181 × 404 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4fec69d381f8f10001001c83/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "albert-gleizes-dans-le-port-in-port",
+            "lat": "40.7250632",
+            "lng": "-73.9976946",
+            "title": "Dans le port [In port]",
+            "artist": "Albert Gleizes",
+            "year": "1917",
+            "medium": "Oil on canvas",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4fe0f20fcc3a3f00010005d9/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "saul-steinberg-the-home-sports-bar",
+            "lat": "40.7250632",
+            "lng": "-73.9976946",
+            "title": "The Home Sports Bar",
+            "artist": "Saul Steinberg",
+            "year": "",
+            "medium": "",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4faaec8410a54a00010002c8/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "carlo-carra-s-gaudenzio-di-varallo",
+            "lat": "40.7250632",
+            "lng": "-73.9976946",
+            "title": "S. Gaudenzio di Varallo",
+            "artist": "Carlo Carrà",
+            "year": "1924",
+            "medium": "Oil on canvas",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4fe1e3a10599380001002389/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "david-smith-cubi-xxi",
+            "lat": "40.727125",
+            "lng": "-74.007683",
+            "title": "Cubi XXI",
+            "artist": "David Smith",
+            "year": "1964",
+            "medium": "Stainless steel",
+            "dimensions": "119 1/2 × 35 × 40 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e945b7f49da300001013631/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "david-smith-vb-xvii-3",
+            "lat": "40.727125",
+            "lng": "-74.007683",
+            "title": "VB XVII",
+            "artist": "David Smith",
+            "year": "1963",
+            "medium": "Steel",
+            "dimensions": "81 1/4 × 14 1/4 × 12 5/8 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e840f0d9cc33b0001000cd0/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mark-mulroney-untitled-13",
+            "lat": "40.7312522",
+            "lng": "-74.198885",
+            "title": "Untitled ",
+            "artist": "Mark Mulroney",
+            "year": "2007",
+            "medium": "Watercolor on paper",
+            "dimensions": "22 × 30 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e7f2837f15cc80001010383/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "stas-orlovski-birds-with-book",
+            "lat": "40.7312522",
+            "lng": "-74.198885",
+            "title": "Birds With Book",
+            "artist": "Stas Orlovski",
+            "year": "2008",
+            "medium": "Oil, ink, gouache and collage on paper on canvas",
+            "dimensions": "69 1/2 × 69 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e84dfafe8789400010079b6/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "axel-salto-bird-vase",
+            "lat": "40.7322219",
+            "lng": "-73.9921499",
+            "title": "Bird Vase",
+            "artist": "Axel Salto",
+            "year": "1949",
+            "medium": "Unglazed stoneware",
+            "dimensions": "18 × 11 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5085e46af1d20c000200131f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "hildegund-schlichenmaier-large-cylindrical-vase",
+            "lat": "40.732821",
+            "lng": "-73.99273",
+            "title": "Large Cylindrical Vase",
+            "artist": "Hildegund Schlichenmaier",
+            "year": "ca. 1960",
+            "medium": "Ceramic",
+            "dimensions": "21 × 9 1/2 × 10 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/50a561d6c2cbb7294a001592/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "elisabeth-joulia-bottle",
+            "lat": "40.732821",
+            "lng": "-73.99273",
+            "title": "Bottle",
+            "artist": "Élisabeth Joulia",
+            "year": "ca. 1960-1962",
+            "medium": "Ceramic",
+            "dimensions": "15 1/2 × 3 1/4 × 3 1/10 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/509a81a1940c540002000814/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "richard-tuttle-when-pressure-exceeds-weight-x",
+            "lat": "40.7435509",
+            "lng": "-73.266071",
+            "title": "When Pressure Exceeds Weight X",
+            "artist": "Richard Tuttle",
+            "year": "2012",
+            "medium": "Inked snaplines on handmade paper",
+            "dimensions": "8 3/4 × 29 in",
+            "price": "$3800",
+            "image_url": "http://stagic2.artsy.net/additional_images/512560362aac6e56ab000fea/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "terry-winters-grid",
+            "lat": "40.7435509",
+            "lng": "-73.266071",
+            "title": "Grid",
+            "artist": "Terry Winters",
+            "year": "2004",
+            "medium": "Lithograph in 1 color on RWS Handmade 1978",
+            "dimensions": "22 1/2 × 31 1/4 in",
+            "price": "$2800",
+            "image_url": "http://stagic0.artsy.net/additional_images/5113bda2a47aef518300017d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "louis-isadore-kahn-interior-parthenon-acropolis-athens-greece",
+            "lat": "40.7448418",
+            "lng": "-74.0060331",
+            "title": "Interior, Parthenon, Acropolis, Athens, Greece",
+            "artist": "Louis Isadore Kahn",
+            "year": "1951",
+            "medium": "Pastel on paper",
+            "dimensions": "11 × 14 in",
+            "price": "$125000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e7ff888d72b5a0001000e8c/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "untitled-9",
+            "lat": "40.74612",
+            "lng": "-74.006804",
+            "title": "Untitled",
+            "artist": "",
+            "year": "Circa 20th Century",
+            "medium": "Found Photograph",
+            "dimensions": "13 × 10 1/2 in",
+            "price": "$450",
+            "image_url": "http://stagic3.artsy.net/additional_images/4f21aaeda180b600010094fa/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "daniel-buren-electricity-fabric-paint-paper-vinyl-dot-dot-dot",
+            "lat": "40.7463193",
+            "lng": "-74.0067752",
+            "title": "ELECTRICITY FABRIC PAINT PAPER VINYL...",
+            "artist": "Daniel Buren",
+            "year": "2013",
+            "medium": "",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/50f99c75fde1917d6e0002e6/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "wk-crime-scene-1",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Crime Scene",
+            "artist": "WK",
+            "year": "2008",
+            "medium": "collage and painting on wood",
+            "dimensions": "72 × 107 1/2 × 1 1/8 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/5148b98ce865ae96ae000360/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "olek-the-end-is-far",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "The End is Far",
+            "artist": "Olek",
+            "year": "2013",
+            "medium": "digital C print",
+            "dimensions": "17 1/2 × 27 1/2 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/512d2d207ec3f282b200013c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "wk-rescue-4",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Rescue 4",
+            "artist": "WK",
+            "year": "2006",
+            "medium": "Mixed media and collage",
+            "dimensions": "23 5/8 × 44 5/8 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4ff3f39d1a8e38000100042a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "paul-behnke-fleet-and-green",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Fleet and Green",
+            "artist": "Paul Behnke",
+            "year": "2013",
+            "medium": "Acrylic on canvas",
+            "dimensions": "48 × 50 in",
+            "price": "$6000",
+            "image_url": "http://stagic1.artsy.net/additional_images/51530e3ac38e126fdb00004c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "invader-rubik-abbey-road",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Rubik Abbey Road",
+            "artist": "Invader",
+            "year": "2009",
+            "medium": "400 Rubik's cubes on Perspex panel",
+            "dimensions": "44 × 44 × 2 1/8 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fe235a729ea450001000390/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "stephan-doitschinoff-calma-hiero-gamos-3",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Hiero Gamos",
+            "artist": "Stephan Doitschinoff (Calma)",
+            "year": "2008",
+            "medium": "Screen print on paper",
+            "dimensions": "26 1/3 × 19 1/4 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4f84bc0465d7a70001000340/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alex-gross-oblivion",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Oblivion",
+            "artist": "Alex Gross",
+            "year": "2006",
+            "medium": "Oil on Canvas",
+            "dimensions": "53 × 36 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f68d217e0f1ca0001000420/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jeremy-geddes-misere-4",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Misére 4",
+            "artist": "Jeremy Geddes",
+            "year": "2012",
+            "medium": "Oil on board",
+            "dimensions": "17 1/2 × 17 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/508aabc35528db0002000cde/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "evol-shelf-life-slice-number-6",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Shelf Life, Slice #6",
+            "artist": "Evol",
+            "year": "2011",
+            "medium": "Spray paint on metal",
+            "dimensions": "35 3/8 × 24 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f8755378305f90001000375/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "zimoun-45-prepared-dc-motors-cotton-balls-cardboard-boxes-23-x-23-x-9-cm",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "45 prepared DC motors, cotton balls, cardboard boxes 23 x 23 x 9 cm",
+            "artist": "Zimoun",
+            "year": "2011",
+            "medium": "DC motors, filler wire, cotton balls, cardboard boxes, power supplies",
+            "dimensions": "176 × 126 × 4 in",
+            "price": "$20,000 - $30,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e8f3a569d6cf20001003528/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gary-baseman-morning-blossom",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Morning Blossom",
+            "artist": "Gary Baseman",
+            "year": "2009",
+            "medium": "Acrylic on Panel",
+            "dimensions": "14 × 11 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e7f4f00f15cc8000102d9e0/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "stephanie-london-iceberg-number-4",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Iceberg #4",
+            "artist": "Stephanie London",
+            "year": "2012",
+            "medium": "Oil on canvas",
+            "dimensions": "12 × 16 in",
+            "price": "$1200",
+            "image_url": "http://stagic3.artsy.net/additional_images/509869d0e45e130002000195/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "claudia-hart-machina",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Machina",
+            "artist": "Claudia Hart",
+            "year": "2008",
+            "medium": "HD quicktime video, custom wood box, shelf, computer",
+            "dimensions": "",
+            "price": "$11500",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e7fd1cee1ce2c00010097de/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "rafael-lozano-hemmer-tape-recorders",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Tape Recorders",
+            "artist": "Rafael Lozano-Hemmer",
+            "year": "2011",
+            "medium": "20 motorized measuring tapes, tracking systems, computers, cameras, thermal printer, custom-made hardware and software",
+            "dimensions": "",
+            "price": "$80000",
+            "image_url": "http://stagic0.artsy.net/additional_images/502142d0676c5e0002000692/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "kevin-cyr-filmore",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Filmore",
+            "artist": "Kevin Cyr",
+            "year": "2012",
+            "medium": "Oil on panel",
+            "dimensions": "36 × 60 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4fbfca4b100d4d000100172a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "josh-agle-shag-balcony-on-fifth",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Balcony on Fifth",
+            "artist": "Josh Agle (Shag)",
+            "year": "2013",
+            "medium": "acrylic on panel",
+            "dimensions": "16 × 24 in",
+            "price": "$11000",
+            "image_url": "http://stagic1.artsy.net/additional_images/515f22b92be67ae6aa00018b/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "zimoun-361-prepared-dc-motors-filler-wire-1-dot-0-mm",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "361 prepared DC motors, filler wire 1.0 mm",
+            "artist": "Zimoun",
+            "year": "2010",
+            "medium": "DC motors, filler wires, laboratory power supply, wooden body",
+            "dimensions": "",
+            "price": "$30,000 - $40,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e81331589f0d000010154ed/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jeff-soto-monster",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Monster",
+            "artist": "Jeff Soto",
+            "year": "2011",
+            "medium": "Acrylic on wood panel",
+            "dimensions": "36 × 48 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/50a3fb5def798d7b790005d4/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gary-taxali-yo-you-fun",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Yo-You Fun",
+            "artist": "Gary Taxali",
+            "year": "",
+            "medium": "Mixed media on paper",
+            "dimensions": "10 3/4 × 8 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4fad8e1534ebf20001001cac/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "daniel-canogar-blade-runner",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Blade Runner",
+            "artist": "Daniel Canogar",
+            "year": "2009",
+            "medium": "VHS magnetic tape, video projection",
+            "dimensions": "",
+            "price": "$50000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e84c0586f149b0001001558/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "lincoln-schatz-1000-foot-chicago-v-1",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "1000 foot Chicago v. 1",
+            "artist": "Lincoln Schatz",
+            "year": "2011",
+            "medium": "Generative portrait on MacMini computer with external hard drive, custom software, 46 LCD screen",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e7fc8aee1ce2c00010040ff/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "brett-amory-waiting-number-80",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Waiting #80",
+            "artist": "Brett Amory",
+            "year": "2011",
+            "medium": "Oil on wood panel",
+            "dimensions": "24 × 48 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f84afd59bcbbb000100120a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "trine-bumiller-ghost-tree",
+            "lat": "40.7464825",
+            "lng": "-74.0069332",
+            "title": "Ghost Tree",
+            "artist": "Trine Bumiller",
+            "year": "2012",
+            "medium": "Oil on canvas",
+            "dimensions": "34 × 66 in",
+            "price": "$7000",
+            "image_url": "http://stagic2.artsy.net/additional_images/50983d597d77920002001460/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alberto-di-fabio-contatto-n-2",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Contatto n. 2",
+            "artist": "Alberto Di Fabio",
+            "year": "2010",
+            "medium": "Acrylic on Canvas",
+            "dimensions": "23 5/8 × 19 3/4 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e6ca66e8cd9620001003251/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "john-currin-the-scream",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "The Scream",
+            "artist": "John Currin",
+            "year": "2010",
+            "medium": "Oil on Canvas",
+            "dimensions": "22 × 18 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e8497c3514c2800010018b2/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "cy-twombly-untitled-29",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Untitled",
+            "artist": "Cy Twombly",
+            "year": "2004",
+            "medium": "Household paint on wooden panel in artists frame",
+            "dimensions": "99 1/4 × 72 3/4 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e7178e2658bd3000100add2/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "taryn-simon-plants-prohibited",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "PLANTS (PROHIBITED)",
+            "artist": "Taryn Simon",
+            "year": "2010",
+            "medium": "16 archival inkjet prints in 3 Plexiglas boxes",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4f109a8d5be8ab0001000437/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "richard-serra-elevational-wedge",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Elevational Wedge",
+            "artist": "Richard Serra",
+            "year": "2001",
+            "medium": "Hot rolled steel",
+            "dimensions": "5 × 130 × 259 7/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e6bf6a9db1aab0001004257/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "cecily-brown-untitled-number-57",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Untitled (#57)",
+            "artist": "Cecily Brown",
+            "year": "2007",
+            "medium": "Oil on Linen",
+            "dimensions": "17 × 12 1/2 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e84280e0ae289000100d255/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "joel-morrison-the-reaganomic-youth-version-2",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "The Reaganomic Youth (version 2)",
+            "artist": "Joel Morrison",
+            "year": "2012",
+            "medium": "Stainless steel",
+            "dimensions": "28 1/2 × 18 × 22 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/506c98c3ae5a9c000200129e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "richard-prince-crushed",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Crushed",
+            "artist": "Richard Prince",
+            "year": "2009",
+            "medium": "Ink jet and acrylic on canvas",
+            "dimensions": "22 × 27 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e8499c1514c280001002673/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "elisa-sighicelli-phi-building",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Phi Building",
+            "artist": "Elisa Sighicelli",
+            "year": "2006",
+            "medium": "Video projection, color, sound",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e6c58c7d69f6300010148ae/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "damien-hirst-lysandra-bellargus",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Lysandra bellargus",
+            "artist": "Damien Hirst",
+            "year": "2009-2010",
+            "medium": "Oil on canvas",
+            "dimensions": "35 × 54 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e7f1f0ef15cc80001008c80/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "richard-prince-untitled-check-painting-number-9",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Untitled (check painting) #9",
+            "artist": "Richard Prince",
+            "year": "2004",
+            "medium": "Acrylic on canvas",
+            "dimensions": "58 × 50 1/8 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e849bef514c280001003d3b/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "cy-twombly-untitled-36",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Untitled",
+            "artist": "Cy Twombly",
+            "year": "2007",
+            "medium": "6 panels: Acrylic, wax crayon, pencil on wood",
+            "dimensions": "99 3/16 × 217 5/16 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e717933658bd3000100b281/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "tom-sachs-shot-gun",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Shot Gun",
+            "artist": "Tom Sachs",
+            "year": "2007",
+            "medium": "Wood, hardware and metal",
+            "dimensions": "4 × 41 × 1 1/2 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e7f4c49f15cc8000102b072/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "rachel-whiteread-untitled-17",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Untitled",
+            "artist": "Rachel Whiteread",
+            "year": "2004",
+            "medium": "Gouache and collage on paper",
+            "dimensions": "6 × 4 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e6ca8a98cd9620001004e17/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "takashi-murakami-dragon-in-clouds-indigo-blue",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Dragon In Clouds - Indigo Blue",
+            "artist": "Takashi Murakami",
+            "year": "2010",
+            "medium": "Acrylic on canvas mounted on board",
+            "dimensions": "143 × 708 5/8 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e810348e3ce4a0001002ffb/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "dan-colen-lust-for-life-noahs-ark",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Lust for Life (Noah's Ark)",
+            "artist": "Dan Colen",
+            "year": "2006",
+            "medium": "Oil on Paper",
+            "dimensions": "23 2/5 × 26 2/5 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e7eaab9a4a37d0001017001/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mike-kelley-fiend-with-a-facial",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Fiend With a Facial",
+            "artist": "Mike Kelley",
+            "year": "2009",
+            "medium": "Acrylic on canvas",
+            "dimensions": "34 3/4 × 28 3/4 × 2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6bf569a291e400010026ad/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jo-baer-untitled",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Untitled",
+            "artist": "Jo Baer",
+            "year": "1966-1974",
+            "medium": "Oil on canvas",
+            "dimensions": "60 × 43 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4fcbcd3a7005d00001000653/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "roy-lichtenstein-landscape-with-grass",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Landscape with Grass",
+            "artist": "Roy Lichtenstein",
+            "year": "1996",
+            "medium": "Oil and Magna on canvas",
+            "dimensions": "110 × 38 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f4db94600d03f00010017a7/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "roger-ballen-grabbed",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Grabbed",
+            "artist": "Roger Ballen",
+            "year": "2006",
+            "medium": "Gelatin Silver Print",
+            "dimensions": "19 11/16 × 19 11/16 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e811a6e89f0d00001001255/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "carsten-holler-carrara-star-and-roller-coaster-and-giant-wheel",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Carrara Star and roller Coaster and Giant Wheel",
+            "artist": "Carsten Höller",
+            "year": "2005",
+            "medium": "Photography on Paper",
+            "dimensions": "58 3/4 × 46 1/4 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e6bb7372ad4f50001013fe1/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "takashi-murakami-rainbow-flower-11-oclock",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Rainbow Flower - 11 O'Clock",
+            "artist": "Takashi Murakami",
+            "year": "2007",
+            "medium": "Acrylic and platinum leaf on canvas mounted on board",
+            "dimensions": "15 1/2 in diameter",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e7034ae8a6cc10001273a05/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "richard-avedon-veruschka-dress-by-kimberly-new-york-january-1967",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Veruschka, dress by Kimberly, New York, January 1967",
+            "artist": "Richard Avedon",
+            "year": "1967",
+            "medium": "Gelatin silver print",
+            "dimensions": "23 5/8 × 19 3/8 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/50c7c307aef45c72f3000816/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "cecily-brown-untitled-19",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Untitled ",
+            "artist": "Cecily Brown",
+            "year": "2007",
+            "medium": "Oil on Linen",
+            "dimensions": "12 1/2 × 17 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e8426bc0ae289000100c326/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "cy-twombly-yet-to-be-titled-8",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Yet to be titled",
+            "artist": "Cy Twombly",
+            "year": "2005",
+            "medium": "Oil on canvas",
+            "dimensions": "125 × 159 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e717940658bd3000100b345/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "richard-prince-the-four-seasons",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "The Four Seasons",
+            "artist": "Richard Prince",
+            "year": "2006",
+            "medium": "Ink jet and acrylic on canvas",
+            "dimensions": "22 × 27 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e849c54514c2800010041c0/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "john-currin-tolbrook",
+            "lat": "40.7468938",
+            "lng": "-74.0064243",
+            "title": "Tolbrook",
+            "artist": "John Currin",
+            "year": "2006",
+            "medium": "Oil on Canvas",
+            "dimensions": "80 × 42 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e7ea51ea4a37d0001011b53/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "giorgio-griffa-obliquo-giallo",
+            "lat": "40.746998",
+            "lng": "-74.0062496",
+            "title": "Obliquo giallo",
+            "artist": "Giorgio Griffa",
+            "year": "1971",
+            "medium": "Acrylic on canvas",
+            "dimensions": "69 7/10 × 89 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/50f17ef0f9e1af661b0004fa/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sarah-anne-johnson-dark-cloud",
+            "lat": "40.7472381",
+            "lng": "-74.0051301",
+            "title": "Dark Cloud",
+            "artist": "Sarah Anne Johnson",
+            "year": "2010",
+            "medium": "Chromongenic print, photospotting ink, acrylic ink, gouache and india ink",
+            "dimensions": "18 × 27 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e8432bdf70c060001004c47/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "laura-letinsky-untitled-number-28-from-the-series-ill-form-and-void-full",
+            "lat": "40.7472381",
+            "lng": "-74.0051301",
+            "title": "Untitled #28, from the series Ill Form and Void Full",
+            "artist": "Laura Letinsky",
+            "year": "",
+            "medium": "Archival pigment print on paper",
+            "dimensions": "44 × 54 in",
+            "price": "$5500",
+            "image_url": "http://stagic0.artsy.net/additional_images/5054c5e28711c600020001ed/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "andrew-moore-west-21",
+            "lat": "40.7472381",
+            "lng": "-74.0051301",
+            "title": "West 21",
+            "artist": "Andrew Moore",
+            "year": "",
+            "medium": "",
+            "dimensions": "70 × 90 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5130d22ab0c98fab2f0001d5/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jitka-hanzlova-untitled-conca",
+            "lat": "40.7472381",
+            "lng": "-74.0051301",
+            "title": "Untitled (Conca) ",
+            "artist": "Jitka Hanzlová",
+            "year": "2011",
+            "medium": "Archival pigment print",
+            "dimensions": "19 × 13 1/2 in",
+            "price": "$7,500 - $10,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/512fbe47a3f6f6eb470009b8/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "olivo-barbieri-site-specific-london-number-2",
+            "lat": "40.7472381",
+            "lng": "-74.0051301",
+            "title": "site specific_LONDON #2",
+            "artist": "Olivo Barbieri",
+            "year": "2012",
+            "medium": "Archival pigment print",
+            "dimensions": "65 × 85 in",
+            "price": "$20,000 - $25,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/50a3c24d886ff20553000663/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "wolf-kahn-barns-in-west-chesterfield",
+            "lat": "40.747609",
+            "lng": "-74.0057766",
+            "title": "Barns in West Chesterfield",
+            "artist": "Wolf Kahn",
+            "year": "2012",
+            "medium": "Oil on canvas",
+            "dimensions": "40 × 52 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/5127c06d5a796cc2040001f9/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "michael-reafsnyder-peek",
+            "lat": "40.747609",
+            "lng": "-74.0057766",
+            "title": "Peek",
+            "artist": "Michael Reafsnyder",
+            "year": "2012",
+            "medium": "Glazed ceramic",
+            "dimensions": "12 × 12 × 10 1/2 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5148de4895d6533a43000572/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sister-mary-corita-workpower-air-conditioner",
+            "lat": "40.7479654",
+            "lng": "-74.0069775",
+            "title": "workpower, air conditioner",
+            "artist": "Sister Mary Corita",
+            "year": "1965",
+            "medium": "Serigraph",
+            "dimensions": "18 × 23 in",
+            "price": "$6000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4f4bb0b9fc4aba0001000ec8/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "marianne-vitale-false-front-8-9",
+            "lat": "40.7479654",
+            "lng": "-74.0069775",
+            "title": "False Front 8",
+            "artist": "Marianne Vitale",
+            "year": "2011",
+            "medium": "Reclaimed lumber",
+            "dimensions": "96 × 86 × 3 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f4b9b5d5a6c81000100095a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sister-mary-corita-mary-does-laugh",
+            "lat": "40.7479654",
+            "lng": "-74.0069775",
+            "title": "mary does laugh",
+            "artist": "Sister Mary Corita",
+            "year": "1964",
+            "medium": "Serigraph",
+            "dimensions": "29 3/4 × 39 1/4 in",
+            "price": "$7500",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f4bb0b1ad04ab0001000d24/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "kate-levant-pianoback-palm-imprint",
+            "lat": "40.7479654",
+            "lng": "-74.0069775",
+            "title": "Pianoback Palm Imprint",
+            "artist": "Kate Levant",
+            "year": "2011",
+            "medium": "Paper, digital printout, clay residue, packing tape, plastic thread",
+            "dimensions": "20 × 13 in",
+            "price": "$2000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f4b9855fc4aba00010008e1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mac-premo-battle-2-flat-extrusions-versus-an-orchetrated-incidental",
+            "lat": "40.7482031",
+            "lng": "-74.0053575",
+            "title": "Battle 2: Flat Extrusions Versus an Orchetrated Incidental",
+            "artist": "Mac Premo",
+            "year": "2007",
+            "medium": "Mixed media assemblage",
+            "dimensions": "7 × 9 1/2 × 9 3/4 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e83fd4b056f57000100a955/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "maritta-tapanainen-orchard",
+            "lat": "40.7482031",
+            "lng": "-74.0053575",
+            "title": "Orchard",
+            "artist": "Maritta Tapanainen",
+            "year": "2006",
+            "medium": "Paper, oh neutral wheat paste, on 4 ply 100% rag museum board",
+            "dimensions": "20 × 27 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e813bdf89f0d0000101d091/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "agathe-de-bailliencourt-my-so-called-life-8",
+            "lat": "40.748587",
+            "lng": "-74.004821",
+            "title": "My So-Called Life 8",
+            "artist": "Agathe de Bailliencourt",
+            "year": "2008",
+            "medium": "Acrylic painting, pastels, pencils and markers on canvas",
+            "dimensions": "40 × 30 in",
+            "price": "$10,000 - $15,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/514789c78e30f7b845000165/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "damien-hirst-beautiful-house-car-and-two-point-four-kids",
+            "lat": "40.748587",
+            "lng": "-74.004821",
+            "title": "Beautiful House, Car and Two Point Four Kids",
+            "artist": "Damien Hirst",
+            "year": "2005",
+            "medium": "Gloss household paint on canvas",
+            "dimensions": "72 in diameter",
+            "price": "$400,000 - $500,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/51312a1ffb603ecfe900009a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "hans-op-de-beeck-sea-morning",
+            "lat": "40.7486306",
+            "lng": "-74.0042809",
+            "title": "Sea (morning)",
+            "artist": "Hans Op de Beeck",
+            "year": "2010",
+            "medium": "Watercolor on Arches paper in wooden frame",
+            "dimensions": "52 1/2 × 119 × 1 3/4 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f2eb573848e3f000100004e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "paul-fusco-untitled-from-rfk-funeral-train-16",
+            "lat": "40.748634",
+            "lng": "-74.005304",
+            "title": "Untitled from RFK Funeral Train",
+            "artist": "Paul Fusco",
+            "year": "1968/ Printed 2008",
+            "medium": "Cibachrome",
+            "dimensions": "24 × 36 in",
+            "price": "$6,001 - $20,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f665b9f7cf7f7000100043c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alison-rossiter-mimosa-luxus-bromosa-dresden-germany-exact-expiration-date-unknown-ca-1930-processed-in-2011-number-3",
+            "lat": "40.7486465",
+            "lng": "-74.0036179",
+            "title": "Mimosa Luxus Bromosa (Dresden, Germany), exact expiration date unknown, ca. 1930, processed in 2011 (#3)",
+            "artist": "Alison Rossiter",
+            "year": "2011",
+            "medium": "Two Gelatin Silver Prints",
+            "dimensions": "12 × 20 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/51290f28ba9034a489000426/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ezra-stoller-upjohn-kalamazoo-mi",
+            "lat": "40.7486465",
+            "lng": "-74.0036179",
+            "title": "Upjohn, Kalamazoo, MI",
+            "artist": "Ezra Stoller",
+            "year": "1953",
+            "medium": "Gelatin Silver Print",
+            "dimensions": "20 × 16 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/511e94fc44b275e62b000487/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "takuma-nakahira-plate-no-c-113",
+            "lat": "40.7486465",
+            "lng": "-74.0036179",
+            "title": "Plate No. C-113",
+            "artist": "Takuma Nakahira",
+            "year": "1971",
+            "medium": "Gelatin Silver Print",
+            "dimensions": "35 3/8 × 53 1/8 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/51250b05d2c3a4bbe500055e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ezra-stoller-power-in-the-west-fortune-magazine",
+            "lat": "40.7486465",
+            "lng": "-74.0036179",
+            "title": "Power in the West, Fortune Magazine",
+            "artist": "Ezra Stoller",
+            "year": "1947",
+            "medium": "Digital C-Print",
+            "dimensions": "24 × 20 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/51005500598b9410ff0001c0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "takuma-nakahira-plate-no-c-111",
+            "lat": "40.7486465",
+            "lng": "-74.0036179",
+            "title": "Plate No. C-111",
+            "artist": "Takuma Nakahira",
+            "year": "1971",
+            "medium": "Gelatin Silver Print",
+            "dimensions": "35 3/8 × 53 1/8 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/512509cc38ae427bc3000574/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "robert-longo-untitled-homage-to-robert-bressons-au-hasard-balthazar-polar-bear",
+            "lat": "40.7488986",
+            "lng": "-74.0049308",
+            "title": "Untitled (Homage to Robert Bresson&#x27;s au hasard Balthazar, Polar Bear)",
+            "artist": "Robert Longo",
+            "year": "2010",
+            "medium": "Charcoal on Mounted Paper",
+            "dimensions": "70 × 120 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e6bf278db1aab0001000289/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "claire-fontaine-identifying-success",
+            "lat": "40.7488986",
+            "lng": "-74.0049308",
+            "title": "Identifying Success",
+            "artist": "Claire Fontaine",
+            "year": "2011",
+            "medium": "Silkscreen and acrylic on canvas",
+            "dimensions": "30 × 40 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4ee254a541b54200010000a0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "steve-gianakos-two-bird-brains-number-2",
+            "lat": "40.7490583",
+            "lng": "-74.0055472",
+            "title": "Two Bird Brains #2",
+            "artist": "Steve Gianakos",
+            "year": "1984",
+            "medium": "Acrylic on canvas",
+            "dimensions": "36 × 36 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5127a5725a796cc2040000dd/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sharon-harper-one-month-weather-permitting-2009-night-sky-over-banff-alberta-september-12-october-10-2007-23-september-24-september-4",
+            "lat": "40.7495073",
+            "lng": "-74.0039316",
+            "title": "One Month, Weather Permitting, 2009 Night Sky over Banff, Alberta September 12 – October 10, 2007 23 September 24 September",
+            "artist": "Sharon Harper",
+            "year": "2010",
+            "medium": "Archival inkjet print on fiber-based Harman paper",
+            "dimensions": "40 × 30 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6ee9d37facad000101d231/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "fernando-de-szyszlo-mar-de-lurin-i",
+            "lat": "40.7496706",
+            "lng": "-74.0048512",
+            "title": "Mar de Lurin I",
+            "artist": "Fernando de Szyszlo",
+            "year": "",
+            "medium": "Limited Edition Silkscreen",
+            "dimensions": "19 1/2 × 25 1/2 in",
+            "price": "$400",
+            "image_url": "http://stagic2.artsy.net/additional_images/516879c876cbe1b6e10004b5/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "andrew-forge-fragment-black",
+            "lat": "40.7496706",
+            "lng": "-74.0048512",
+            "title": "Fragment, Black",
+            "artist": "Andrew Forge",
+            "year": "1985",
+            "medium": "Oil on canvas",
+            "dimensions": "44 1/4 × 36 1/8 in",
+            "price": "$50,000 - $75,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e7e93bea4a37d0001000448/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "william-bailey-straniero",
+            "lat": "40.7496706",
+            "lng": "-74.0048512",
+            "title": "Straniero",
+            "artist": "William Bailey",
+            "year": "2009",
+            "medium": "Oil on linen",
+            "dimensions": "30 × 36 in",
+            "price": "$50,000 - $250,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e717362658bd30001004da2/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "philip-pearlstein-model-with-chrome-chair-kiddie-car-kimono-and-bambino",
+            "lat": "40.7496706",
+            "lng": "-74.0048512",
+            "title": "Model With Chrome Chair, Kiddie Car, Kimono and Bambino",
+            "artist": "Philip Pearlstein",
+            "year": "2008",
+            "medium": "Oil on canvas",
+            "dimensions": "60 × 42 in",
+            "price": "$150,000 - $200,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6ef7a27facad000102d49e/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "william-bailey-house-by-the-sea",
+            "lat": "40.7496706",
+            "lng": "-74.0048512",
+            "title": "House by the Sea",
+            "artist": "William Bailey",
+            "year": "2009",
+            "medium": "Oil on linen",
+            "dimensions": "75 × 65 in",
+            "price": "$50,000 - $250,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e717354658bd30001004cc4/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "matt-saunders-zeichentusche-from-internegative-from-silver",
+            "lat": "40.74975",
+            "lng": "-74.003741",
+            "title": "Zeichentusche (from internegative, from silver)",
+            "artist": "Matt Saunders",
+            "year": "2010",
+            "medium": "Black and white photograph on baryt paper",
+            "dimensions": "75 × 100 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e932bd849da300001001fd8/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "liz-glynn-process-monument-after-auguste-rodin-monument-to-balzac",
+            "lat": "40.74975",
+            "lng": "-74.003741",
+            "title": "Process Monument (after Auguste Rodin, Monument to Balzac)",
+            "artist": "Liz Glynn",
+            "year": "2013",
+            "medium": "Plaster, aqua-resin, burlap, steel armature, wood, modified casts ",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5106e4b6a9e970419a0004fb/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "matthias-dornfeld-blumenstrauss-auf-magenta-flowers-on-magenta",
+            "lat": "40.74975",
+            "lng": "-74.003741",
+            "title": "Blumenstrauss auf Magenta (Flowers on Magenta)",
+            "artist": "Matthias Dornfeld",
+            "year": "2009",
+            "medium": "Oil and acrylic on canvas",
+            "dimensions": "39 × 27 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e932d944a6e540001003c9d/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "evan-holloway-diptych-number-1-peregrine-falcon-in-sculptural-setting-with-colorful-bodies",
+            "lat": "40.74975",
+            "lng": "-74.003741",
+            "title": "Diptych #1 (Peregrine Falcon in Sculptural Setting with Colorful Bodies)",
+            "artist": "Evan Holloway",
+            "year": "2010",
+            "medium": "Digital C-print, mounted on sintra and matt laminated",
+            "dimensions": "",
+            "price": "$9000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e9306ece7222f000100000f/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "matt-saunders-buster-keaton-number-1",
+            "lat": "40.74975",
+            "lng": "-74.003741",
+            "title": "Buster Keaton #1",
+            "artist": "Matt Saunders",
+            "year": "2006",
+            "medium": "Oil and ink on mylar",
+            "dimensions": "15 1/2 × 11 5/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e932a1857d6970001002a3a/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "matthias-dornfeld-blumenstrauss",
+            "lat": "40.74975",
+            "lng": "-74.003741",
+            "title": "Blumenstrauss",
+            "artist": "Matthias Dornfeld",
+            "year": "2009",
+            "medium": "Acrylic and tempera on canvas",
+            "dimensions": "43 × 31 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e932d87e7222f0001002919/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "matt-saunders-small-silver-hertha-number-4",
+            "lat": "40.74975",
+            "lng": "-74.003741",
+            "title": "Small Silver Hertha #4",
+            "artist": "Matt Saunders",
+            "year": "2008",
+            "medium": "Oil and silver ink on mylar",
+            "dimensions": "19 7/10 × 16 3/10 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e932a25e340fa0001002c55/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "fred-tomaselli-after-echolocation-number-2",
+            "lat": "40.7499366",
+            "lng": "-74.005949",
+            "title": "After Echolocation #2",
+            "artist": "Fred Tomaselli",
+            "year": "2000",
+            "medium": "Iris print",
+            "dimensions": "17 3/4 × 13 1/4 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5169be430f89c99c850000d1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "robert-mangold-half-column-a",
+            "lat": "40.7499366",
+            "lng": "-74.005949",
+            "title": "Half Column A",
+            "artist": "Robert Mangold",
+            "year": "2005",
+            "medium": "Etching and aquatint",
+            "dimensions": "43 3/4 × 22 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/51682ff476cbe1b6e1000016/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jonathan-lasker-image-and-substance",
+            "lat": "40.750026",
+            "lng": "-74.005133",
+            "title": "Image and Substance",
+            "artist": "Jonathan Lasker",
+            "year": "2011",
+            "medium": "Oil on linen",
+            "dimensions": "30 × 40 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e763b1edcf8c200010001cd/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "joan-mitchell-le-chemin-des-ecoliers-ii",
+            "lat": "40.750026",
+            "lng": "-74.005133",
+            "title": "Le Chemin des Ecoliers II",
+            "artist": "Joan Mitchell",
+            "year": "1961",
+            "medium": "Oil on canvas",
+            "dimensions": "77 × 38 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e843730f70c060001007491/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mcdermott-and-mcgough-while-i-disappear-1967",
+            "lat": "40.750026",
+            "lng": "-74.005133",
+            "title": "While I disappear, 1967",
+            "artist": "McDermott & McGough",
+            "year": "2012",
+            "medium": "Acrylic wash and oil on panel",
+            "dimensions": "30 × 22 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/510aed3c8312163b530004fb/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "al-held-the-big-d",
+            "lat": "40.750026",
+            "lng": "-74.005133",
+            "title": "THE BIG D",
+            "artist": "Al Held",
+            "year": "1964",
+            "medium": "Acrylic on canvas",
+            "dimensions": "144 × 114 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/51312fdbcab9bdcea2000111/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "julia-mandle-rising-tide",
+            "lat": "40.7500883",
+            "lng": "-74.0059166",
+            "title": "Rising Tide",
+            "artist": "Julia Mandle",
+            "year": "2012",
+            "medium": "Embroidery on canvas",
+            "dimensions": "23 × 37 in",
+            "price": "$5,000 - $7,500",
+            "image_url": "http://stagic3.artsy.net/additional_images/50f9d17a119f737ec10001c9/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gulay-semercioglu-inside",
+            "lat": "40.7500883",
+            "lng": "-74.0059166",
+            "title": "Inside",
+            "artist": "Gulay Semercioglu",
+            "year": "2011",
+            "medium": "Wire, screws, wood",
+            "dimensions": "150 × 100 cm",
+            "price": "$15,000 - $20,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/504f699a4821fb0002000321/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gulay-semercioglu-black-gap",
+            "lat": "40.7500883",
+            "lng": "-74.0059166",
+            "title": "Black Gap",
+            "artist": "Gulay Semercioglu",
+            "year": "2012",
+            "medium": "Wire, screws, wood",
+            "dimensions": "180 × 150 cm",
+            "price": "$30,000 - $40,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/504f697786b5a00002000343/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "kate-eric-portrait-4",
+            "lat": "40.7500883",
+            "lng": "-74.0059166",
+            "title": "Portrait 4",
+            "artist": "Kate Eric",
+            "year": "2012",
+            "medium": "Acrylic on canvas",
+            "dimensions": "38 × 28 in",
+            "price": "$8000",
+            "image_url": "http://stagic0.artsy.net/additional_images/509ecdfef8c317aa49000213/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "deborah-kass-enough-already",
+            "lat": "40.7501367",
+            "lng": "-74.002659",
+            "title": "Enough Already",
+            "artist": "Deborah Kass",
+            "year": "2009",
+            "medium": "Oil and acrylic on canvas",
+            "dimensions": "70 × 98 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4ecab616e298f20001004a4f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "man-ray-cadeau",
+            "lat": "40.7501774",
+            "lng": "-74.0041245",
+            "title": "Cadeau",
+            "artist": "Man Ray",
+            "year": "c. 1947",
+            "medium": "Mixed media",
+            "dimensions": "",
+            "price": "Under $150,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e68faea5287020001062135/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jorn-vanhofen-gotthard-2754",
+            "lat": "40.7503033",
+            "lng": "-74.0062191",
+            "title": "Gotthard 2754",
+            "artist": "Jörn Vanhöfen",
+            "year": "2010",
+            "medium": "Chromogenic color print mounted to dibond",
+            "dimensions": "48 × 58 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f5e614f147e970001000c7d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "chip-hooper-northern-california-coast-pacific-ocean",
+            "lat": "40.7503033",
+            "lng": "-74.0062191",
+            "title": "Northern California Coast, Pacific Ocean",
+            "artist": "Chip Hooper",
+            "year": "2005",
+            "medium": "Silver print",
+            "dimensions": "44 × 56 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e6c42dfd69f6300010021e3/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jem-southam-march-1999",
+            "lat": "40.7503033",
+            "lng": "-74.0062191",
+            "title": "March 1999",
+            "artist": "Jem Southam",
+            "year": "",
+            "medium": "Chromogenic dye coupler print",
+            "dimensions": "36 × 42 1/2 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e67aa0a2b950000010098fd/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "res-and-constanza-piaggio-maria-alche-y-ramon-teves-ushuaia-diptych",
+            "lat": "40.7503033",
+            "lng": "-74.0062191",
+            "title": "Maria Alche y Ramón Teves, Ushuaia (diptych)",
+            "artist": "Res & Constanza Piaggio",
+            "year": "2006",
+            "medium": "Lambda print on chromogenic dye coupler paper",
+            "dimensions": "36 × 59 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e67b5372b9500000100acec/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "stacia-yeapanis-waking-up-transparent",
+            "lat": "40.75111",
+            "lng": "-74.004475",
+            "title": "Waking Up Transparent",
+            "artist": "Stacia Yeapanis",
+            "year": "2006",
+            "medium": "Archival pigment ink print",
+            "dimensions": "10 × 13 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4fedd89459e682000100108e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "christopher-k-ho-kingcharlesrufuskingmartinluther-5",
+            "lat": "40.7518464",
+            "lng": "-74.0061822",
+            "title": "Kingcharlesrufuskingmartinluther",
+            "artist": "Christopher K. Ho",
+            "year": "2007",
+            "medium": "Slightly weathered time machines",
+            "dimensions": "98 cm diameter",
+            "price": "$2,000 - $6,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e8506659d9954000100216a/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "shane-hope-qubit-built-quilted-scalable-scriptable-species-being-on-graphene-v1-dot-0",
+            "lat": "40.7518464",
+            "lng": "-74.0061822",
+            "title": "Qubit-Built-Quilted Scalable-Scriptable-Species-Being on Graphene v1.0",
+            "artist": "Shane Hope",
+            "year": "2011",
+            "medium": "3D prints in PLA (polylactic acid)",
+            "dimensions": "48 × 120 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4ecb310a1e959c000100088a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "yevgeniy-fiks-songs-of-russia-number-12",
+            "lat": "40.7518464",
+            "lng": "-74.0061822",
+            "title": "Songs of Russia #12",
+            "artist": "Yevgeniy Fiks",
+            "year": "2005",
+            "medium": "Oil on canvas",
+            "dimensions": "36 × 48 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e8131a289f0d00001013928/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "shane-hope-smartdustormin",
+            "lat": "40.7518464",
+            "lng": "-74.0061822",
+            "title": "Smartdustormin´",
+            "artist": "Shane Hope",
+            "year": "2013",
+            "medium": "3D-printed PLA molecular models on acrylic substrate",
+            "dimensions": "24 × 24 in",
+            "price": "$7500",
+            "image_url": "http://stagic0.artsy.net/additional_images/5155c0b0b88851486f0000d2/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sandra-vasquez-de-la-horra-la-verdad-es-demasiado-grande-the-truth-is-too-large",
+            "lat": "40.7521176",
+            "lng": "-74.0027907",
+            "title": "La verdad es demasiado grande (The truth is too large) ",
+            "artist": "Sandra Vásquez de la Horra",
+            "year": "2012",
+            "medium": "Wax, graphite, and watercolor on paper",
+            "dimensions": "29 15/16 × 22 1/16 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f9eae7a5c3b7800010016f9/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jorinde-voigt-staat-random-i-xi",
+            "lat": "40.7521176",
+            "lng": "-74.0027907",
+            "title": "Staat Random I-XI",
+            "artist": "Jorinde Voigt",
+            "year": "2008",
+            "medium": "Ink and graphite on paper",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f79cade35ac740001000579/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jorinde-voigt-piece-for-words-and-views-xix",
+            "lat": "40.7521176",
+            "lng": "-74.0027907",
+            "title": "Piece for Words and Views XIX",
+            "artist": "Jorinde Voigt",
+            "year": "2012",
+            "medium": "Colored vellum, ingres paper, pencil and ink on watercolor paper",
+            "dimensions": "80 × 180 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f79fe246bdbdd00010002b7/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "carroll-dunham-untitled-7-slash-2-slash-09",
+            "lat": "40.7521176",
+            "lng": "-74.0027907",
+            "title": "Untitled (7/2/09)",
+            "artist": "Carroll Dunham",
+            "year": "2009",
+            "medium": "Pastel on paper",
+            "dimensions": "11 × 8 1/2 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e7036058a6cc10001275408/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "hans-bellmer-untitled-sade",
+            "lat": "40.7521176",
+            "lng": "-74.0027907",
+            "title": "Untitled (Sade)",
+            "artist": "Hans Bellmer",
+            "year": "1946",
+            "medium": "Graphite and white gouache on paper",
+            "dimensions": "5 3/4 × 3 3/4 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4fd208ce95cd2e00010020b0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "joan-snyder-leaves-are-beginning-to-fall",
+            "lat": "40.752169",
+            "lng": "-74.003732",
+            "title": "Leaves are Beginning to Fall",
+            "artist": "Joan Snyder",
+            "year": "2005",
+            "medium": "watercolor and ink on paper",
+            "dimensions": "9 × 10 in",
+            "price": "$1800",
+            "image_url": "http://stagic3.artsy.net/additional_images/4ff0b53924efd600010004d0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jean-shin-altered-trophies-2",
+            "lat": "40.752169",
+            "lng": "-74.003732",
+            "title": "Altered Trophies 2",
+            "artist": "Jean Shin",
+            "year": "2009",
+            "medium": "sports trophies, painted and cast resin",
+            "dimensions": "15 1/2 × 25 1/2 × 3 in",
+            "price": "$7000",
+            "image_url": "http://stagic3.artsy.net/additional_images/502964225c1b31000200051a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "eve-sussman-and-rufus-corporation-eikones",
+            "lat": "40.752169",
+            "lng": "-74.003732",
+            "title": "Eikones",
+            "artist": "Eve Sussman and Rufus Corporation",
+            "year": "2005",
+            "medium": "digital c-print",
+            "dimensions": "40 × 51 in",
+            "price": "$18000",
+            "image_url": "http://stagic0.artsy.net/additional_images/50240b3470d2e800020007c1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "marman-and-borins-red-rock",
+            "lat": "40.752169",
+            "lng": "-74.003732",
+            "title": "Red Rock",
+            "artist": "Marman and Borins",
+            "year": "2010",
+            "medium": "Foam, astroturf",
+            "dimensions": "12 × 18 × 18 in",
+            "price": "$2400",
+            "image_url": "http://stagic1.artsy.net/additional_images/502a77d9e8b647000200020e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "simon-lee-his-rubber-eye-his-clockwork-ear",
+            "lat": "40.752169",
+            "lng": "-74.003732",
+            "title": "His Rubber Eye His Clockwork Ear",
+            "artist": "Simon Lee",
+            "year": "2012",
+            "medium": "house paint on photograph",
+            "dimensions": "6 9/16 × 11 9/16 in",
+            "price": "$1500",
+            "image_url": "http://stagic3.artsy.net/additional_images/50b79564198659e113000976/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alexander-creswell-newport-ranger-and-hanuman-historic-rivalry",
+            "lat": "40.75416",
+            "lng": "-73.980395",
+            "title": "Newport - Ranger & Hanuman, Historic Rivalry",
+            "artist": "Alexander Creswell",
+            "year": "2009",
+            "medium": "Watercolor on paper",
+            "dimensions": "24 × 40 in",
+            "price": "$20,000 - $30,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e6c4842d69f630001006e79/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alec-soth-2006-03zl0016",
+            "lat": "40.755986",
+            "lng": "-73.99822",
+            "title": "2006_03zl0016",
+            "artist": "Alec Soth",
+            "year": "2006",
+            "medium": "Framed archival pigment print mounted to 4 ply museum board",
+            "dimensions": "40 × 50 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4fcd479ec670440001001063/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "giacinto-gimignani-moses-presenting-the-baton-of-office-to-joshua",
+            "lat": "40.758822",
+            "lng": "-73.979852",
+            "title": "Moses presenting the Baton of Office to Joshua",
+            "artist": "Giacinto Gimignani",
+            "year": "",
+            "medium": "Black chalk, pen and brown ink, grey and brown wash, heightened with white on two joined sheets of light brown paper",
+            "dimensions": "18 3/5 × 89 4/5 cm",
+            "price": "$10,000 - $15,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/50eefabad0c2eb506800062d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "pancrace-bessa-two-plum-tree-leaves-four-different-types-of-plums-two-beetles-with-a-subsidiary-study-of-a-third-one",
+            "lat": "40.758822",
+            "lng": "-73.979852",
+            "title": "Two plum tree leaves, four different types of plums, two beetles, with a subsidiary study of a third one",
+            "artist": "Pancrace Bessa",
+            "year": "",
+            "medium": "Pencil, watercolor and bodycolor heightened with white, watermark J WHATMAN/ TURKEY MILLS/ 1819",
+            "dimensions": "21 1/5 × 26 7/10 cm",
+            "price": "$12,000 - $18,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/50eefb66d0c2eb5068000935/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jean-auguste-dominique-ingres-comtesse-charles-dagoult-nee-marie-dagoult-and-her-daughter-claire-dagoult",
+            "lat": "40.758822",
+            "lng": "-73.979852",
+            "title": "Comtesse Charles d'Agoult, née Marie d'Agoult, and her daughter Claire d'Agoult",
+            "artist": "Jean-Auguste-Dominique Ingres",
+            "year": "1849",
+            "medium": "Pencil heightened with white and touches of yellow watercolor",
+            "dimensions": "48 2/5 × 39 3/5 cm",
+            "price": "$1,500,000 - $2,500,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/50eefb0bd0c2eb506800078d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "cornelis-biltius-a-trompe-loeil-of-a-hanging-pheasant-and-a-trompe-loeil-of-a-hanging-black-grouse",
+            "lat": "40.758822",
+            "lng": "-73.979852",
+            "title": "A trompe l'oeil of a hanging pheasant; and A trompe l'oeil of a hanging black grouse",
+            "artist": "Cornelis Biltius",
+            "year": "",
+            "medium": "Oil on canvas",
+            "dimensions": "62 1/2 × 44 7/10 cm",
+            "price": "$10,000 - $15,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/50eefc37d0c2eb5068000cbd/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "giovanni-domenico-tiepolo-head-of-an-african-boy",
+            "lat": "40.758822",
+            "lng": "-73.979852",
+            "title": "Head of an African boy",
+            "artist": "Giovanni Domenico Tiepolo",
+            "year": "",
+            "medium": "Black and white chalk on faded blue paper, watermark bird (?)",
+            "dimensions": "21 1/10 × 33 4/5 cm",
+            "price": "$4,000 - $6,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/50eefb3fd0c2eb5068000865/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "lucas-samaras-nexus-0537-now-and-then",
+            "lat": "40.76186",
+            "lng": "-73.972093",
+            "title": "Nexus 0537 (Now and Then)",
+            "artist": "Lucas Samaras",
+            "year": "2009",
+            "medium": "Pure pigment on paper",
+            "dimensions": "17 × 29 1/2 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e7eb789a4a37d000102246a/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "robert-whitman-untitled-shirts-and-clouds",
+            "lat": "40.76186",
+            "lng": "-73.972093",
+            "title": "Untitled (shirts and clouds)",
+            "artist": "Robert Whitman",
+            "year": "1994-1995",
+            "medium": "Mixed media",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e6bf846db1aab0001005f06/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "thomas-nozkowski-untitled-7-61-63",
+            "lat": "40.76186",
+            "lng": "-73.972093",
+            "title": "Untitled (7-61)",
+            "artist": "Thomas Nozkowski",
+            "year": "1995",
+            "medium": "Oil on linen on panel",
+            "dimensions": "16 × 20 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6cbdd68cd9620001017282/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "robert-whitman-untitled-ceiling-stream",
+            "lat": "40.76186",
+            "lng": "-73.972093",
+            "title": "Untitled (ceiling stream)",
+            "artist": "Robert Whitman",
+            "year": "1994-1995",
+            "medium": "Mixed media",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6bf83d53d46f000100250d/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "antoni-tapies-composicio-i-corda",
+            "lat": "40.76186",
+            "lng": "-73.972093",
+            "title": "Composicio i corda",
+            "artist": "Antoni Tàpies",
+            "year": "1999",
+            "medium": "Mixed media and assemblage on wood",
+            "dimensions": "79 1/4 × 86 5/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e6bf72953d46f000100157a/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "joel-shapiro-untitled-64",
+            "lat": "40.76186",
+            "lng": "-73.972093",
+            "title": "untitled",
+            "artist": "Joel Shapiro",
+            "year": "2000",
+            "medium": "Bass wood and yellow cedar",
+            "dimensions": "99 3/5 × 83 4/5 × 42 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e6ef8037facad000102e622/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "karine-laval-collisions-grid-comprising-9-works",
+            "lat": "40.762227",
+            "lng": "-73.971964",
+            "title": "Collisions Grid, comprising 9 works",
+            "artist": "Karine Laval",
+            "year": "2012",
+            "medium": "C-print",
+            "dimensions": "20 × 20 in",
+            "price": "$28000",
+            "image_url": "http://stagic0.artsy.net/additional_images/51708116a20132efae00005f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "david-leventi-opera-house-la-scala-milan",
+            "lat": "40.762227",
+            "lng": "-73.971964",
+            "title": "Opera House: La Scala, Milan",
+            "artist": "David Leventi",
+            "year": "2007",
+            "medium": "Digital pigment ink print",
+            "dimensions": "72 × 90 in",
+            "price": "$4,000 - $12,500",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e84a012514c280001006881/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "karine-laval-untitled-number-11-collision-series",
+            "lat": "40.762227",
+            "lng": "-73.971964",
+            "title": "Untitled #11 (Collision series)",
+            "artist": "Karine Laval",
+            "year": "2012",
+            "medium": "Digital C-print",
+            "dimensions": "48 × 48 in",
+            "price": "$3500",
+            "image_url": "http://stagic3.artsy.net/additional_images/51546a4ae8030f0bf900022f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "simon-norfolk-afghan-police-being-trained-by-u-dot-s-marines-camp-leatherneck",
+            "lat": "40.762227",
+            "lng": "-73.971964",
+            "title": "Afghan Police Being Trained By U.S. Marines, Camp Leatherneck",
+            "artist": "Simon Norfolk",
+            "year": "2010",
+            "medium": "Archival pigment ink print",
+            "dimensions": "20 × 24 in",
+            "price": "£2500",
+            "image_url": "http://stagic2.artsy.net/additional_images/4ec2dbd0344aa70001010547/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "lauren-semivan-the-storm",
+            "lat": "40.762227",
+            "lng": "-73.971964",
+            "title": "The Storm",
+            "artist": "Lauren Semivan",
+            "year": "2012",
+            "medium": "Archival pigment ink print",
+            "dimensions": "24 × 30 in",
+            "price": "$2,500 - $5,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/51546a21e8030ff7640001d1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "simon-norfolk-the-entrance-to-a-small-western-backed-ngo",
+            "lat": "40.762227",
+            "lng": "-73.971964",
+            "title": "The Entrance To A Small, Western Backed NGO",
+            "artist": "Simon Norfolk",
+            "year": "2010",
+            "medium": "Archival pigment ink print",
+            "dimensions": "40 × 50 in",
+            "price": "£2,500 - £6,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4ec2d20ccf494e000100e8c5/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "francis-hewitt-op-end-number-2",
+            "lat": "40.7627738",
+            "lng": "-73.9742947",
+            "title": "Op-End #2",
+            "artist": "Francis Hewitt",
+            "year": "1964",
+            "medium": "Acrylic on canvasboard",
+            "dimensions": "24 × 24 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e8de87f94b4d300010014f8/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "francis-hewitt-legger-see",
+            "lat": "40.7627738",
+            "lng": "-73.9742947",
+            "title": "Legger-See",
+            "artist": "Francis Hewitt",
+            "year": "1964",
+            "medium": "Acrylic on canvasboard",
+            "dimensions": "24 × 24 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e8de735a5600a00010033b0/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "leon-kelly-muse-disenchanted-by-the-death-of-venus",
+            "lat": "40.7632369",
+            "lng": "-73.975741",
+            "title": "Muse Disenchanted by the Death of Venus",
+            "artist": "Leon Kelly",
+            "year": "1959",
+            "medium": "Pencil on paper ",
+            "dimensions": "3 3/4 × 34 1/2 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fe334146f3f660001003575/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jean-crotti-eclatement-des-pensees",
+            "lat": "40.7632369",
+            "lng": "-73.975741",
+            "title": "Eclatement des pensees",
+            "artist": "Jean Crotti",
+            "year": "1926",
+            "medium": "Oil on canvas",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fb53e7aa00a8a000100104c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "suzanne-duchamp-self-portrait-1",
+            "lat": "40.7632369",
+            "lng": "-73.975741",
+            "title": "Self Portrait",
+            "artist": "Suzanne Duchamp",
+            "year": "ca. 1920",
+            "medium": "Ink on paper",
+            "dimensions": "14 1/8 × 9 7/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/507f053e289611000200075b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "liu-xiaodong-pink-phoenix",
+            "lat": "40.76326",
+            "lng": "-73.973161",
+            "title": "Pink Phoenix",
+            "artist": "Liu Xiaodong",
+            "year": "2011",
+            "medium": "Oil on canvas",
+            "dimensions": "111 × 111 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4fdb9dc3b1c64b0001000212/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "peter-saul-i-dont-care",
+            "lat": "40.76326",
+            "lng": "-73.973161",
+            "title": "I Don't Care",
+            "artist": "Peter Saul",
+            "year": "2012",
+            "medium": "Acrylic, colored pencil on paper",
+            "dimensions": "23 × 29 in",
+            "price": "$20000",
+            "image_url": "http://stagic0.artsy.net/additional_images/511a78e30e05b23681000253/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "francesco-clemente-untitled",
+            "lat": "40.76326",
+            "lng": "-73.973161",
+            "title": "Untitled",
+            "artist": "Francesco Clemente",
+            "year": "2011-2012",
+            "medium": "Mixed media on canvas",
+            "dimensions": "78 × 93 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4fe0a72b453fe1000100213f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "bernardo-torrens-melania-iii",
+            "lat": "40.764109",
+            "lng": "-73.975948",
+            "title": "Melania III",
+            "artist": "Bernardo Torrens",
+            "year": "2011",
+            "medium": "Acrylic on wood",
+            "dimensions": "21 1/4 × 45 5/8 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f2072299f27f900010004e6/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ester-curini-jane-doe",
+            "lat": "40.764109",
+            "lng": "-73.975948",
+            "title": "Jane Doe",
+            "artist": "Ester Curini",
+            "year": "2010",
+            "medium": "Acrylic on canvas",
+            "dimensions": "30 × 48 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f689f8c3e81160001001ba4/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ester-curini-ergo-sum",
+            "lat": "40.764109",
+            "lng": "-73.975948",
+            "title": "Ergo Sum",
+            "artist": "Ester Curini",
+            "year": "2011-2012",
+            "medium": "Acrylic on linen",
+            "dimensions": "40 × 30 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f689f7f303ce60001001f2b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "seymour-joseph-guy-close-your-eyes",
+            "lat": "40.7717323",
+            "lng": "-73.9648924",
+            "title": "Close Your Eyes",
+            "artist": "Seymour Joseph Guy",
+            "year": "c. 1863",
+            "medium": "Oil on canvas",
+            "dimensions": "18 × 14 in",
+            "price": "$150,000 - $200,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4fe870604ef3550001000f11/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "thomas-doughty-view-of-boston-harbor-from-dorchester-heights",
+            "lat": "40.7717323",
+            "lng": "-73.9648924",
+            "title": "View of Boston Harbor from Dorchester Heights",
+            "artist": "Thomas Doughty",
+            "year": "c. 1843",
+            "medium": "Oil on canvas",
+            "dimensions": "14 × 20 in",
+            "price": "$150,000 - $200,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f1470f7cc042b00010001cd/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "john-margolies-photographs-from-roadside-america-204",
+            "lat": "40.7717996",
+            "lng": "-73.9616968",
+            "title": "Photographs from Roadside America",
+            "artist": "John Margolies",
+            "year": "1980",
+            "medium": "Digital C-Print",
+            "dimensions": "16 × 20 × 10 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e7febbce1ce2c000101d544/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "christopher-winter-alfa-centauri-st-sebastian",
+            "lat": "40.7717996",
+            "lng": "-73.9616968",
+            "title": "Alfa Centauri St. Sebastian ",
+            "artist": "Christopher Winter",
+            "year": "2011",
+            "medium": "Acrylic on canvas",
+            "dimensions": "55 × 55 in",
+            "price": "$20,000 - $30,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f2032a011f44c0001000008/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "john-margolies-photographs-from-roadside-america-185",
+            "lat": "40.7717996",
+            "lng": "-73.9616968",
+            "title": "Photographs from Roadside America",
+            "artist": "John Margolies",
+            "year": "1980",
+            "medium": "Digital C-Print",
+            "dimensions": "16 × 20 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e7ff2ede1ce2c0001023ebc/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "john-margolies-photographs-from-roadside-america-138",
+            "lat": "40.7717996",
+            "lng": "-73.9616968",
+            "title": "Photographs from Roadside America",
+            "artist": "John Margolies",
+            "year": "1980",
+            "medium": "Digital C-Print",
+            "dimensions": "16 × 20 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e7ff1f4e1ce2c00010225ee/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "pat-lasch-gypsy-rose-lee",
+            "lat": "40.7726831",
+            "lng": "-73.9637366",
+            "title": "Gypsy Rose Lee",
+            "artist": "Pat Lasch",
+            "year": "",
+            "medium": "Acrylic and gold leaf on masonite",
+            "dimensions": "11 × 8 in",
+            "price": "$2,500 - $5,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/5099499ed7d043000200136f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "bill-scott-azalea",
+            "lat": "40.7740165",
+            "lng": "-73.9640086",
+            "title": "Azalea",
+            "artist": "Bill Scott",
+            "year": "2009",
+            "medium": "Oil on canvas",
+            "dimensions": "32 × 42 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fedc0be64fa1700010000ec/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "everett-shinn-drawing-for-david-copperfield-chapter-50-mr-peggottys-dream-comes-true",
+            "lat": "40.7784966",
+            "lng": "-73.9610445",
+            "title": "Drawing for 'David Copperfield' Chapter 50: Mr. Peggotty's Dream Comes True",
+            "artist": "Everett Shinn",
+            "year": "1948",
+            "medium": "Ink on Paper",
+            "dimensions": "12 187/250 × 10 95/254 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e7039048a6cc100012775dc/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jon-kessler-predatero-number-2",
+            "lat": "40.7862607",
+            "lng": "-73.9559253",
+            "title": "Predatero #2",
+            "artist": "Jon Kessler",
+            "year": "2009",
+            "medium": "Digital archival print, cotton paper pulp with mixed media",
+            "dimensions": "40 × 30 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e811cb789f0d00001002d5b/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "laurie-simmons-the-love-doll-slash-day-25-the-jump",
+            "lat": "40.7862607",
+            "lng": "-73.9559253",
+            "title": "The Love Doll / Day 25 (The Jump)",
+            "artist": "Laurie Simmons",
+            "year": "2010",
+            "medium": "Fuji matte print",
+            "dimensions": "70 × 52 1/2 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e810432e3ce4a0001003d9a/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "james-isherwood-untitled-3",
+            "lat": "40.7885888",
+            "lng": "-73.9694254",
+            "title": "Untitled",
+            "artist": "James Isherwood",
+            "year": "2008",
+            "medium": "Acrylic on paper",
+            "dimensions": "26 × 20 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e717a31658bd3000100c528/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "allison-green-family-portrait",
+            "lat": "40.7885888",
+            "lng": "-73.9694254",
+            "title": "Family Portrait",
+            "artist": "Allison Green",
+            "year": "2011",
+            "medium": "Oil on canvas",
+            "dimensions": "48 × 12 in",
+            "price": "$2800",
+            "image_url": "http://stagic1.artsy.net/additional_images/50202afcf9f2e70002000d49/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "tracy-silva-barbosa-impetus",
+            "lat": "40.7885888",
+            "lng": "-73.9694254",
+            "title": "Impetus",
+            "artist": "Tracy Silva Barbosa",
+            "year": "2010",
+            "medium": "Acrylic, silver leaf and image transfer collage on canvas",
+            "dimensions": "59 × 35 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e717d42658bd3000100e274/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "luis-maldonado-wisconsins-cheese-can-take-my-problems-away",
+            "lat": "40.7885888",
+            "lng": "-73.9694254",
+            "title": "Wisconsin's Cheese Can Take My Problems Away ",
+            "artist": "Luis Maldonado",
+            "year": "2003",
+            "medium": "Graphite, oil, acrylic and foam on canvas,",
+            "dimensions": "48 × 72 in",
+            "price": "$5000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4feb5a275534de00010037bd/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jongwang-lee-nirvana-ii",
+            "lat": "40.7885888",
+            "lng": "-73.9694254",
+            "title": "Nirvana II",
+            "artist": "Jongwang Lee",
+            "year": "2011",
+            "medium": "Mixed media",
+            "dimensions": "20 × 28 in",
+            "price": "$5500",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e8f175e20df9500010011be/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jonathan-nesci-new-mirror",
+            "lat": "41.8830765",
+            "lng": "-87.6492422",
+            "title": "New Mirror",
+            "artist": "Jonathan Nesci",
+            "year": "2010",
+            "medium": "Powder Coated Spun Steel, Mirrored Glass",
+            "dimensions": "26 1/2 × 3 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/50b0fbaf6c7e61a8970003d1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "rich-brilliant-willing-2-dot-62-ft3",
+            "lat": "41.8830765",
+            "lng": "-87.6492422",
+            "title": "2.62 ft³",
+            "artist": "Rich Brilliant Willing",
+            "year": "2011",
+            "medium": "Blackened Steel, Leather",
+            "dimensions": "8 × 50 × 12 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/50b0f651a87aae260c0003d1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "susan-hefuna-metaldrawing",
+            "lat": "41.883811",
+            "lng": "-87.6501229",
+            "title": "MetalDrawing",
+            "artist": "Susan Hefuna",
+            "year": "2012",
+            "medium": "Brass",
+            "dimensions": "11 × 8 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/511bf57bd1c197860300010f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "anne-wilson-dispersion-number-3",
+            "lat": "41.883811",
+            "lng": "-87.6501229",
+            "title": "Dispersion # 3",
+            "artist": "Anne Wilson",
+            "year": "2013",
+            "medium": "Cloth, Thread, Hair",
+            "dimensions": "20 31/50 × 20 31/50 × 1 1/2 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/511c02d1dc21c0fdfa000082/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gary-schneider-helen",
+            "lat": "41.8929153",
+            "lng": "-87.6359125",
+            "title": "Helen",
+            "artist": "Gary Schneider",
+            "year": "2000",
+            "medium": "Pigmented ink print",
+            "dimensions": "50 × 40 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/50589fc4f2298500020004cc/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mark-tansey-myth-of-depth-ii",
+            "lat": "41.8969553",
+            "lng": "-87.6300189",
+            "title": "MYTH OF DEPTH II",
+            "artist": "Mark Tansey",
+            "year": "",
+            "medium": "",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5126a526bc496d1dc700017b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "karen-whitman-painting-the-town",
+            "lat": "42.040704",
+            "lng": "-74.120649",
+            "title": "Painting the Town",
+            "artist": "Karen Whitman",
+            "year": "1999",
+            "medium": "Color linoleum block print",
+            "dimensions": "11 × 18 in",
+            "price": "$725",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6bf68aa291e40001003850/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "summer-wheat-hypnotized",
+            "lat": "42.3422888",
+            "lng": "-71.0640456",
+            "title": "Hypnotized",
+            "artist": "Summer Wheat",
+            "year": "2011",
+            "medium": "Acrylic and oil on canvas",
+            "dimensions": "72 × 96 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4f7a1de43e29b200010005a7/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "nelson-da-costa-village-diaries",
+            "lat": "42.3520282",
+            "lng": "-71.0740681",
+            "title": "Village Diaries",
+            "artist": "Nelson Da Costa",
+            "year": "2011",
+            "medium": "acrylic on canvas",
+            "dimensions": "32 × 32 in",
+            "price": "$2,500 - $5,000",
+            "image_url": "http://stagic2.artsy.net/additional_images/514c774699ee458948000174/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "paulette-tavormina-crabs-and-lemon-after-p-dot-c-from-the-series-natura-morta",
+            "lat": "42.3520412",
+            "lng": "-71.0728459",
+            "title": "Crabs and Lemon, after P.C., from the series Natura Morta",
+            "artist": "Paulette Tavormina",
+            "year": "2009",
+            "medium": "Archival digital pigment print",
+            "dimensions": "13 11/16 × 19 13/16 in",
+            "price": "$2500",
+            "image_url": "http://stagic0.artsy.net/additional_images/515879cebd4d47bc9b0000ac/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "liliana-porter-untitled-self-portrait-with-square-1973",
+            "lat": "42.3524133",
+            "lng": "-71.0720251",
+            "title": "Untitled (Self portrait with square), 1973",
+            "artist": "Liliana Porter",
+            "year": "2012",
+            "medium": "Gelatin silver print, printed from the original film negative in 1973",
+            "dimensions": "16 1/4 × 11 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/5130f5fed8b0de6d7000043b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ishtar-gate-babylon-restored",
+            "lat": "44.9573053",
+            "lng": "-93.2752902",
+            "title": "Ishtar Gate, Babylon (restored)",
+            "artist": "",
+            "year": "ca. 575 B.C.",
+            "medium": "Neo-Babylonian",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5075c1f1c244f50002000e8d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "piero-manzoni-achrome-1",
+            "lat": "45.0699716",
+            "lng": "7.6775334",
+            "title": "Achrome",
+            "artist": "Piero Manzoni",
+            "year": "1960-61",
+            "medium": "Squared sewn canvas",
+            "dimensions": "74 1/2 × 55 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5123add4a3f6a29871000215/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mark-flores-elysian-sunset",
+            "lat": "45.4774825",
+            "lng": "9.1921184",
+            "title": "Elysian Sunset",
+            "artist": "Mark Flores",
+            "year": "2011",
+            "medium": "oil on canvas (2 canvases)",
+            "dimensions": "24 3/25 × 41 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4f1e94777a385f00010007fb/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "piotr-janas-composition-ii",
+            "lat": "45.4774825",
+            "lng": "9.1921184",
+            "title": "Composition II",
+            "artist": "Piotr Janas",
+            "year": "2009",
+            "medium": "Oil on canvas",
+            "dimensions": "33 1/2 × 25 3/5 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f1ea46a7a385f000100081c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "mark-flores-echo-steps",
+            "lat": "45.4774825",
+            "lng": "9.1921184",
+            "title": "Echo Steps",
+            "artist": "Mark Flores",
+            "year": "2011",
+            "medium": "oil on canvas (2 canvases)",
+            "dimensions": "51 1/2 × 70 3/4 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f1e9a02f266cf000100091f/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "tim-berresheim-phoenix-the-guilty-pleasure-wood-iii",
+            "lat": "45.4774825",
+            "lng": "9.1921184",
+            "title": "Phoenix - The Guilty Pleasure (Wood) III",
+            "artist": "Tim Berresheim",
+            "year": "2009",
+            "medium": "Print on wood",
+            "dimensions": "70 × 86 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4fa5439177c1840001001aa8/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "nicolas-pol-la-martus",
+            "lat": "45.4774825",
+            "lng": "9.1921184",
+            "title": "LA Martus",
+            "artist": "Nicolas Pol",
+            "year": "",
+            "medium": "Oil and silkscreen on canvas",
+            "dimensions": "175 × 215 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5136c573a41b798852000017/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "lina-bertucci-casey-19-art-student",
+            "lat": "45.4774825",
+            "lng": "9.1921184",
+            "title": "Casey 19, Art Student",
+            "artist": "Lina Bertucci",
+            "year": "2007",
+            "medium": "Ultrachrome archival photograph",
+            "dimensions": "36 × 29 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4f1e4675f266cf000100088a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "roland-flexner-untitled",
+            "lat": "45.4840511",
+            "lng": "9.2431529",
+            "title": "Untitled",
+            "artist": "Roland Flexner",
+            "year": "2010",
+            "medium": "Liquid graphite on paper",
+            "dimensions": "37 7/10 × 41 7/10 × 3 cm",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/5124f9ba1b3859fd4a000242/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "roman-liska-untitled-white-texture-diptych-ii",
+            "lat": "45.4896874",
+            "lng": "9.1833589",
+            "title": "Untitled (white texture diptych II)",
+            "artist": "Roman Liška",
+            "year": "2013",
+            "medium": "",
+            "dimensions": "173 × 104 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5149bf15b1b2d6c91900017b/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "shinique-smith-perfect-from-the-waist-dot-dot-dot",
+            "lat": "45.4896874",
+            "lng": "9.1833589",
+            "title": "Perfect from the waist...",
+            "artist": "Shinique Smith",
+            "year": "2009",
+            "medium": "Mixed media",
+            "dimensions": "38 × 22 × 22 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4ea99c227efefc000100629f/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "seydou-keita-untitled-44",
+            "lat": "46.1983922",
+            "lng": "6.1422961",
+            "title": "Untitled",
+            "artist": "Seydou Keïta",
+            "year": "1958",
+            "medium": "Gelatin Silver Print",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e6bf18df0ec5000010e4f61/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "natsumi-ishiyama-wow",
+            "lat": "46.1983922",
+            "lng": "6.1422961",
+            "title": "Wow!",
+            "artist": "Natsumi Ishiyama",
+            "year": "2007",
+            "medium": "Acrylic, gouache, and pencil on drawing paper",
+            "dimensions": "11 69/100 × 16 27/50 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4eab25eecdc0ae000100d0b8/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "teiji-hayama-the-rose",
+            "lat": "46.1983922",
+            "lng": "6.1422961",
+            "title": "The Rose",
+            "artist": "Teiji Hayama",
+            "year": "2008",
+            "medium": "Oil and acrylic on canvas",
+            "dimensions": "27 14/25 × 19 57/100 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4ea9bcf6fed3200001007161/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "seydou-keita-untitled-45",
+            "lat": "46.1983922",
+            "lng": "6.1422961",
+            "title": "Untitled",
+            "artist": "Seydou Keïta",
+            "year": "1959",
+            "medium": "Gelatin Silver Print",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6bf191f0ec5000010e5029/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "pierre-bodo-defile-de-modes",
+            "lat": "46.1983922",
+            "lng": "6.1422961",
+            "title": "Défilé de Modes",
+            "artist": "Pierre Bodo",
+            "year": "2006",
+            "medium": "Acrylic and Glitter on Canvas",
+            "dimensions": "66 7/50 × 173 23/100 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e6c32736c10220001001ce9/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "seydou-keita-untitled-56",
+            "lat": "46.1983922",
+            "lng": "6.1422961",
+            "title": "Untitled",
+            "artist": "Seydou Keïta",
+            "year": "",
+            "medium": "Gelatin Silver Print",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e6bf1c1f0ec5000010e58dc/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "matt-mullican-untitled-animated-fictional-details-dying-stick-figure",
+            "lat": "47.3691009",
+            "lng": "8.5477998",
+            "title": "Untitled (Animated Fictional Details: Dying Stick Figure)",
+            "artist": "Matt Mullican",
+            "year": "2002",
+            "medium": "computer animation, DVD-R",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/512ba75ce75cca7304000392/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "pablo-picasso-nu-couche-jouant-avec-un-chat-reclining-woman-playing-with-a-cat",
+            "lat": "47.5881851",
+            "lng": "7.6510443",
+            "title": "Nu couché jouant avec un chat (Reclining Woman Playing with a Cat)",
+            "artist": "Pablo Picasso",
+            "year": "1964",
+            "medium": "Oil on canvas",
+            "dimensions": "114 × 194 1/2 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/507826b65f328500020002ff/2/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "pablo-picasso-profil-de-femme-jacqueline-profile-of-woman-jacqueline",
+            "lat": "47.5881851",
+            "lng": "7.6510443",
+            "title": "Profil de femme (Jacqueline) (Profile of Woman, Jacqueline)",
+            "artist": "Pablo Picasso",
+            "year": "1969",
+            "medium": "Linocut with ink and coloured pencil",
+            "dimensions": "75 × 62 cm",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/507826c3a942bc0002000382/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "andreas-kocks-correspondence-number-1301w",
+            "lat": "48.14661",
+            "lng": "11.57374",
+            "title": "Correspondence (# 1301w)",
+            "artist": "Andreas Kocks",
+            "year": "2013",
+            "medium": "watercolour, graphite on cut-out laid paper, layered,2 parts",
+            "dimensions": "128 × 171 cm",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/512ed6f743bdcac5c6000075/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alina-szapocznikow-untitled",
+            "lat": "48.8552874",
+            "lng": "2.3375198",
+            "title": "Untitled",
+            "artist": "Alina Szapocznikow",
+            "year": "1964",
+            "medium": "",
+            "dimensions": "63 1/10 × 48 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/5124a0a256c5484037000763/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gabriel-hartley-ladder",
+            "lat": "48.8616654",
+            "lng": "2.3573702",
+            "title": "Ladder",
+            "artist": "Gabriel Hartley",
+            "year": "2012",
+            "medium": "Oil and spray paint on canvas",
+            "dimensions": "40 1/8 × 36 1/4 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/511baa3ea2e57d21a20000e8/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "pablo-picasso-nature-morte-sous-la-lampe",
+            "lat": "50.7106926",
+            "lng": "37.7533377",
+            "title": "Nature Morte sous la lampe",
+            "artist": "Pablo Picasso",
+            "year": "1962",
+            "medium": "Linocut",
+            "dimensions": "64 × 53 cm",
+            "price": "$255000",
+            "image_url": "http://stagic2.artsy.net/additional_images/5130e1b5ad1b4d0809000321/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "howard-hodgkin-twos-company-c",
+            "lat": "50.7106926",
+            "lng": "37.7533377",
+            "title": "Two's Company (c)",
+            "artist": "Howard Hodgkin",
+            "year": "2002-3",
+            "medium": "From a series of 4 hand-painted sugar lift-ground etchings and aquatints from 2 copper plates with carborundum from 1 plastic plate on 100% cotton paper",
+            "dimensions": "38 × 46 1/2 cm",
+            "price": "$5,000 - $7,500",
+            "image_url": "http://stagic0.artsy.net/additional_images/508a852d2f55920002000960/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ian-davenport-colourplan-monoprint-raw-umber",
+            "lat": "50.7106926",
+            "lng": "37.7533377",
+            "title": "Colourplan Monoprint: Raw Umber",
+            "artist": "Ian Davenport",
+            "year": "2011",
+            "medium": "Etched monoprint on Hahnemühle Bright White 350 gsm paper",
+            "dimensions": "83 × 80 cm",
+            "price": "$2,500 - $5,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/50ace420dd33f68a67001067/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "kris-martin-apocalypse",
+            "lat": "51.2228463",
+            "lng": "6.7716122",
+            "title": "Apocalypse",
+            "artist": "Kris Martin",
+            "year": "2013",
+            "medium": "Found typewriter and etching",
+            "dimensions": "26 × 42 × 28 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/511ccbfbc71338f6fc000631/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "christopher-green-lyndhurst-way",
+            "lat": "51.4698422",
+            "lng": "-0.0717198",
+            "title": "Lyndhurst Way",
+            "artist": "Christopher Green",
+            "year": "2006",
+            "medium": "Oil pastel on paper",
+            "dimensions": "29 2/5 × 29 1/2 cm",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/516ed59f54e56eac0f000127/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "daido-moriyama-lips-2-3",
+            "lat": "51.4889883",
+            "lng": "-0.1659459",
+            "title": "Lips 2",
+            "artist": "Daido Moriyama",
+            "year": "",
+            "medium": "Silver Gelatin Print",
+            "dimensions": "43 × 36 cm",
+            "price": "£3500",
+            "image_url": "http://stagic2.artsy.net/additional_images/5059a228c28f5a00020006a3/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "daido-moriyama-tights-17",
+            "lat": "51.4889883",
+            "lng": "-0.1659459",
+            "title": "Tights 17",
+            "artist": "Daido Moriyama",
+            "year": "1987-2011",
+            "medium": "Silver Gelatin Print",
+            "dimensions": "100 × 150 cm",
+            "price": "£4,000 - £8,500",
+            "image_url": "http://stagic2.artsy.net/additional_images/5059a780f280130002000620/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "anne-ryan-untitled-9",
+            "lat": "51.4910955",
+            "lng": "-0.1083978",
+            "title": "Untitled",
+            "artist": "Anne Ryan",
+            "year": "2009",
+            "medium": "Oil on Canvas",
+            "dimensions": "125 1/10 × 150 1/10 in",
+            "price": "$10,000 - $12,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e84caaee878940001000c89/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "giuseppe-gabellone-untitled-8",
+            "lat": "51.4910955",
+            "lng": "-0.1083978",
+            "title": "Untitled",
+            "artist": "Giuseppe Gabellone",
+            "year": "2009",
+            "medium": "Digital Print",
+            "dimensions": "20 47/100 × 13 39/50 in",
+            "price": "$13,000 - $17,000",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e7f3495f15cc80001017af2/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "shio-kusaka-white-41",
+            "lat": "51.4910955",
+            "lng": "-0.1083978",
+            "title": "white 41",
+            "artist": "Shio Kusaka",
+            "year": "2011",
+            "medium": "Porcelain",
+            "dimensions": "9 3/10 × 5 4/5 × 5 4/5 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e8437b8f70c060001007ac7/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sean-landers-if-youve-ever-dot-dot-dot",
+            "lat": "51.4910955",
+            "lng": "-0.1083978",
+            "title": "If You've Ever...",
+            "artist": "Sean Landers",
+            "year": "2005",
+            "medium": "Oil on linen",
+            "dimensions": "15 4/5 × 13 2/5 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4e6bbdb50881ac0001004190/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "josiah-mcelheny-chromatic-modernism-red-blue-yellow",
+            "lat": "51.4996005",
+            "lng": "-0.0817756",
+            "title": "Chromatic Modernism (Red, Blue, Yellow)",
+            "artist": "Josiah McElheny",
+            "year": "2008",
+            "medium": "Hand blown glass, coloured laminated sheet glass, low iron steel glass, anodized aluminium and electric lights",
+            "dimensions": "219 2/5 × 157 1/5 × 48 9/10 cm",
+            "price": "$75,000 - $100,000",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fd375c28f695600010018f1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "candice-breitz-de-do-do-do",
+            "lat": "51.4996005",
+            "lng": "-0.0817756",
+            "title": "De Do Do Do",
+            "artist": "Candice Breitz",
+            "year": "2006",
+            "medium": "Photograph on mirror",
+            "dimensions": "89 × 66 1/2 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fd39fc8247f1400010004c1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sarah-morris-points-on-a-line-1",
+            "lat": "51.4996005",
+            "lng": "-0.0817756",
+            "title": "Points on a Line",
+            "artist": "Sarah Morris",
+            "year": "2010",
+            "medium": "HD Digital. Duration: 35 minutes 44 Null seconds",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4fd33c37957c330001000e01/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "josiah-mcelheny-interactive-abstract-body-circle",
+            "lat": "51.4996005",
+            "lng": "-0.0817756",
+            "title": "Interactive Abstract Body (Circle)",
+            "artist": "Josiah McElheny",
+            "year": "2012",
+            "medium": "Wood, mirror, line drawing and performance",
+            "dimensions": "",
+            "price": "$20,000 - $30,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/50b35cae1ba38430f30004f5/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jake-and-dinos-chapman-another-nice-etching-by-jake-and-dinos-chapman",
+            "lat": "51.4996005",
+            "lng": "-0.0817756",
+            "title": "Another nice etching by Jake and Dinos Chapman",
+            "artist": "Jake & Dinos Chapman",
+            "year": "2006",
+            "medium": "Etching on 300gsm Somerset TP paper ",
+            "dimensions": "55 × 46 cm",
+            "price": "£300",
+            "image_url": "http://stagic1.artsy.net/additional_images/4fd467e740e2010001000e0e/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "merlin-carpenter-tate-cafe-6",
+            "lat": "51.5081809",
+            "lng": "-0.14304",
+            "title": "TATE CAFÉ 6",
+            "artist": "Merlin Carpenter",
+            "year": "2011",
+            "medium": "Acrylic on Linen",
+            "dimensions": "78 4/5 × 118 1/5 in",
+            "price": "",
+            "image_url": "http://stagic2.artsy.net/additional_images/4eb2c60948eeb80001005fd0/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "alex-hubbard-untitled-dominican-painting",
+            "lat": "51.5081809",
+            "lng": "-0.14304",
+            "title": "Untitled (Dominican Painting)",
+            "artist": "Alex Hubbard",
+            "year": "2012",
+            "medium": "Acrylic and resin on canvas",
+            "dimensions": "78 × 86 in",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/4f75cb4e653da10001001388/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "toby-ziegler-the-individual-is-lost",
+            "lat": "51.5081809",
+            "lng": "-0.14304",
+            "title": "The individual is lost",
+            "artist": "Toby Ziegler",
+            "year": "2011",
+            "medium": "Oxidised aluminium",
+            "dimensions": "70 9/10 × 83 1/2 × 49 3/10 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e7ec34ba4a37d000102af91/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "rana-begum-no-362-fold",
+            "lat": "51.5090703",
+            "lng": "-0.143644",
+            "title": "No. 362 - Fold",
+            "artist": "Rana Begum",
+            "year": "2013",
+            "medium": "Paint on mild steel",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/511e10c2b31934467b000711/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gil-j-wolman-untitled-mai-68",
+            "lat": "51.5102165",
+            "lng": "-0.1413024",
+            "title": "Untitled (Mai 68) ",
+            "artist": "Gil J Wolman",
+            "year": "1968",
+            "medium": "Scotch art on canvas",
+            "dimensions": "38 × 55 cm",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/515d9c735eeb1c524c004d66/3/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "gil-j-wolman-untitled-mitterrand",
+            "lat": "51.5102165",
+            "lng": "-0.1413024",
+            "title": "Untitled (Mitterrand)",
+            "artist": "Gil J Wolman",
+            "year": "1966",
+            "medium": "Scotch art on canvas",
+            "dimensions": "22 × 33 cm",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/515d9d617b70570a13004fad/3/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "jacques-villegle-dechet-de-la-biennale-mat-63",
+            "lat": "51.5102165",
+            "lng": "-0.1413024",
+            "title": "Déchet de la Biennale (Mat 63)",
+            "artist": "Jacques Villeglé",
+            "year": "Août 1961",
+            "medium": "Lacerated posters on canvas",
+            "dimensions": "50 × 21 1/2 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/515da0c35eeb1c904c004e50/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "theo-van-rysselberghe-roses-grimpantes",
+            "lat": "51.5104019",
+            "lng": "-0.1413206",
+            "title": "Roses Grimpantes",
+            "artist": "Théo van Rysselberghe",
+            "year": "c. 1920",
+            "medium": "Oil on paper",
+            "dimensions": "18 1/4 × 19 1/4 in",
+            "price": "$19,000 - $31,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f0b67e49488f90001000590/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "banksy-kate-moss-grey-blue",
+            "lat": "51.5169912",
+            "lng": "-0.1332548",
+            "title": "Kate Moss (Grey, Blue)",
+            "artist": "Banksy",
+            "year": "2005",
+            "medium": "Silkscreen Print",
+            "dimensions": "27 3/5 × 27 3/5 in",
+            "price": "£60000",
+            "image_url": "http://stagic2.artsy.net/additional_images/4e833bdd9cd58d0001004662/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "vhils-insculpt-5",
+            "lat": "51.5169912",
+            "lng": "-0.1332548",
+            "title": "Insculpt 5",
+            "artist": "Vhils",
+            "year": "2012",
+            "medium": "Doors collected from the street, carved and composed",
+            "dimensions": "213 × 106 × 5 cm",
+            "price": "£7000",
+            "image_url": "http://stagic1.artsy.net/additional_images/50b4cc36401207040400120c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "miranda-donovan-wash-out-3",
+            "lat": "51.5169912",
+            "lng": "-0.1332548",
+            "title": "Wash Out",
+            "artist": "Miranda Donovan",
+            "year": "2010",
+            "medium": "Acrylic, enamel, resin, mirror and mixed media on board",
+            "dimensions": "19 7/10 × 19 4/5 × 3 1/2 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4e846b1631130f0001012d86/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "faile-remember-love",
+            "lat": "51.5169912",
+            "lng": "-0.1332548",
+            "title": "Remember Love",
+            "artist": "Faile",
+            "year": "2006",
+            "medium": "Acrylic on canvas",
+            "dimensions": "71 × 71 in",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4e84399ff70c060001008740/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "indre-serpytyte-untitled-1-from-a-state-of-silence",
+            "lat": "51.5175928",
+            "lng": "-0.1360265",
+            "title": "Untitled 1 from A State of Silence",
+            "artist": "Indre Serpytyte",
+            "year": "2006",
+            "medium": "C-type print",
+            "dimensions": "129 1/2 × 154 9/10 cm",
+            "price": "£5000",
+            "image_url": "http://stagic3.artsy.net/additional_images/502f8b0e31820c0002000288/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "sam-dargan-rue-charles-peguy-road-to-mulhouse-18th-october-1977",
+            "lat": "51.5217427",
+            "lng": "-0.1083534",
+            "title": "Rue Charles Peguy, road to Mulhouse. 18th October. 1977",
+            "artist": "Sam Dargan",
+            "year": "2012",
+            "medium": "Oil on Canvas",
+            "dimensions": "130 × 150 cm",
+            "price": "£7000",
+            "image_url": "http://stagic1.artsy.net/additional_images/5000111883998c0001001802/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "conrad-ventur-mm-number-17",
+            "lat": "51.5217427",
+            "lng": "-0.1083534",
+            "title": "MM #17",
+            "artist": "Conrad Ventur",
+            "year": "2012",
+            "medium": "C-Type Photograph",
+            "dimensions": "61 × 40 3/5 cm",
+            "price": "£3000",
+            "image_url": "http://stagic2.artsy.net/additional_images/50f95a510c53e5ea0c0009d1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ben-rivers-phantoms-of-a-libertine-28",
+            "lat": "51.5248705",
+            "lng": "-0.0740994",
+            "title": "Phantoms of a Libertine",
+            "artist": "Ben Rivers",
+            "year": "2012",
+            "medium": "Silver gelatin photographs",
+            "dimensions": "",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/4fa2b65970640e000100027a/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "renee-so-untitled",
+            "lat": "51.5248705",
+            "lng": "-0.0740994",
+            "title": "Untitled",
+            "artist": "Renee So",
+            "year": "2012",
+            "medium": "Glazed Ceramic, Steel",
+            "dimensions": "18 1/10 × 15 4/5 × 3 9/10 in",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/4f1957883de9e70001000f83/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "ross-chisholm-last-dance",
+            "lat": "51.5276067",
+            "lng": "-0.0805892",
+            "title": "last dance",
+            "artist": "Ross Chisholm",
+            "year": "2012",
+            "medium": "Oil on panel, 3 parts, dimensions for each",
+            "dimensions": "24 × 18 cm",
+            "price": "£15,000 - £20,000",
+            "image_url": "http://stagic0.artsy.net/additional_images/50ed9138c2cd15d600000b7d/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "przemek-matecki-untitled-walking",
+            "lat": "52.2261628",
+            "lng": "21.0095579",
+            "title": "Untitled (Walking)",
+            "artist": "Przemek Matecki",
+            "year": "2011",
+            "medium": "Oil and paper on cardboard",
+            "dimensions": "110 × 70 cm",
+            "price": "€ 7000",
+            "image_url": "http://stagic0.artsy.net/additional_images/501a8b18b4c848000200004c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "andrey-klassen-schwindel-deception",
+            "lat": "52.50278",
+            "lng": "13.39072",
+            "title": "Schwindel (Deception)",
+            "artist": "Andrey Klassen",
+            "year": "2011",
+            "medium": "Ink on Paper (framed)",
+            "dimensions": "87 × 121 cm",
+            "price": "€ 5000",
+            "image_url": "http://stagic2.artsy.net/additional_images/50f81eabe71f8033330000d7/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "georg-baselitz-rote-mutter-mit-kind",
+            "lat": "52.5037168",
+            "lng": "13.3058226",
+            "title": "Rote Mutter mit Kind",
+            "artist": "Georg Baselitz",
+            "year": "1985",
+            "medium": "Oil on Canvas",
+            "dimensions": "330 × 250 cm",
+            "price": "",
+            "image_url": "http://stagic3.artsy.net/additional_images/51273bc22c6ef735b80000b7/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "aa-bronson-and-ryan-brewer-blue",
+            "lat": "52.5258144",
+            "lng": "13.4114468",
+            "title": "Blue",
+            "artist": "AA Bronson & Ryan Brewer",
+            "year": "2012",
+            "medium": "LED light box with Diasec®",
+            "dimensions": "180 × 240 cm",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/516fe222b03198ab8800003c/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "per-kirkeby-untitled-5",
+            "lat": "55.6672888",
+            "lng": "12.5610929",
+            "title": "Untitled",
+            "artist": "Per Kirkeby",
+            "year": "1986",
+            "medium": "Gouache",
+            "dimensions": "41 1/2 × 29 7/10 cm",
+            "price": "",
+            "image_url": "http://stagic0.artsy.net/additional_images/51194759b69ee9c0dc0001f3/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "dexter-dalwood-birth-of-the-u-n",
+            "lat": "55.6864615",
+            "lng": "12.5918348",
+            "title": "Birth of the U. N.",
+            "artist": "Dexter Dalwood",
+            "year": "2003",
+            "medium": "Collage",
+            "dimensions": "44 × 44 × 3 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/51307d62b0c98fab2f000042/1/medium.jpg"
+        }
+    },
+    {
+        "geo_artwork": {
+            "slug": "eric-freeman-the-finland-series-nr-8",
+            "lat": "60.1669239",
+            "lng": "24.9397884",
+            "title": "The Finland series, Nr. 8",
+            "artist": "Eric Freeman",
+            "year": "2010",
+            "medium": "Oil on canvas",
+            "dimensions": "122 × 122 cm",
+            "price": "",
+            "image_url": "http://stagic1.artsy.net/additional_images/5125f798b3a90c4d59000667/medium.jpg"
+        }
+    }
+]
