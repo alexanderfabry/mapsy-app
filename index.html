@@ -52,15 +52,6 @@ function mapsy() {
                 .style("opacity", "1");
                 
 
-var imgs = svg.selectAll("image").data([0]);
-            imgs.enter()
-            .append("svg:image")
-              .attr("xlink:href", "/img/mock/example_artwork_1.png")
-              .attr("x", "820")
-                .attr("y", "10")
-                .attr("width", "193")
-                .attr("height", "293");
-
 
     var mapsy_calledOn_mouseMoveArtwork =  function(d){ 
 
@@ -87,6 +78,17 @@ var imgs = svg.selectAll("image").data([0]);
 
     // setup map and fill it with data
     d3.csv("cities.csv", function(error, data) {
+
+      var imgs = svg.selectAll("image").data([0]);
+            imgs.enter()
+            .append("svg:image")
+              .attr("xlink:href", "/img/mock/example_artwork_1.png")
+              .attr("x", "820")
+                .attr("y", "10")
+                .attr("width", "193")
+                .attr("height", "293");
+
+      
       g.selectAll("circle")
            .data(data)
            .enter()
