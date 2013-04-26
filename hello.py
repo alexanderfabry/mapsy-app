@@ -41,6 +41,22 @@ def contenttypetextplain(f):
         return f(*args, **kwargs)
     return decorated_function
 
+def contenttypejavascript(f):
+    """This decorator passes Content-Type: text/plain"""
+    @wraps(f)
+    @add_response_headers({'Content-Type': 'text/plain'})
+    def decorated_function(*args, **kwargs):
+        return f(*args, **kwargs)
+    return decorated_function
+
+def contenttypecss(f):
+    """This decorator passes Content-Type: text/css"""
+    @wraps(f)
+    @add_response_headers({'Content-Type': 'text/css'})
+    def decorated_function(*args, **kwargs):
+        return f(*args, **kwargs)
+    return decorated_function
+
 def noindex(f):
     """This decorator passes X-Robots-Tag: noindex"""
     @wraps(f)
@@ -53,7 +69,7 @@ def noindex(f):
 def hello():
     return template.render(css_styles=css.render(), mapsy_js=mapsy_js.render())
 
-@app.route('/shows')
+@app.route('/shows.css')
 @contenttypetextplain
 @noindex
 def show_post():
