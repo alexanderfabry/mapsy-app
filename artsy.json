@@ -1,4 +1,4 @@
-var jsonCircles = [
+[
                 { 
                   "img":"/img/mock/example_artwork_1.png",
                    "x_axis": 30,
@@ -23,4 +23,5 @@ var jsonCircles = [
                  "y_axis": 100,
                  "radius": 20,
                    "color" : "red"
-              }];
+                }
+];
