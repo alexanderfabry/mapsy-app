@@ -89,9 +89,9 @@ var imgs = svg.selectAll("image").data([0]);
                    return projection([d.lon, d.lat])[1];
            })
            .attr("r", 15)
-           .on("mouseover", mapsy_calledOn_mouseOverArtwork(d))
-           .on("mouseout", mapsy_calledOn_mouseOutArtwork(d))
-           .on("mousemove", mapsy_calledOn_mouseMoveArtwork(d))
+           .on("mouseover", mapsy_calledOn_mouseOverArtwork)
+           .on("mouseout", mapsy_calledOn_mouseOutArtwork)
+           .on("mousemove", mapsy_calledOn_mouseMoveArtwork)
            .style("fill", "white");
     });
 
