@@ -1,12 +1,12 @@
 code,city,country,lat,lon,img
-ZNZ,ZANZIBAR,TANZANIA,-6.13,39.31,hello
-TYO,TOKYO,JAPAN,35.68,139.76,hello1
-AKL,AUCKLAND,NEW ZEALAND,-36.85,174.78,hello12
-BKK,BANGKOK,THAILAND,13.75,100.48,hello134
-DEL,DELHI,INDIA,29.01,77.38,hello15
-SIN,SINGAPORE,SINGAPOR,1.36,103.75,hello16
-BSB,BRASILIA,BRAZIL,-15.67,-47.43,hello13
-RIO,RIO DE JANEIRO,BRAZIL,-22.90,-43.24,hello14
-YTO,TORONTO,CANADA,43.64,-79.40,hello13
-IPC,EASTER ISLAND,CHILE,-27.11,-109.36,hello12
-SEA,SEATTLE,USA,47.61,-122.33,hello12
+ZNZ,ZANZIBAR,TANZANIA,-6.13,39.31,/img/mock/example_artwork_1.png
+TYO,TOKYO,JAPAN,35.68,139.76,/img/mock/example_artwork_1.png
+AKL,AUCKLAND,NEW ZEALAND,-36.85,174.78,/img/mock/example_artwork_2.png
+BKK,BANGKOK,THAILAND,13.75,100.48,/img/mock/example_artwork_2.png
+DEL,DELHI,INDIA,29.01,77.38,/img/mock/example_artwork_1.png
+SIN,SINGAPORE,SINGAPOR,1.36,103.75,/img/mock/example_artwork_2.png
+BSB,BRASILIA,BRAZIL,-15.67,-47.43,/img/mock/example_artwork_3.png
+RIO,RIO DE JANEIRO,BRAZIL,-22.90,-43.24,/img/mock/example_artwork_3.png
+YTO,TORONTO,CANADA,43.64,-79.40,/img/mock/example_artwork_2.png
+IPC,EASTER ISLAND,CHILE,-27.11,-109.36,/img/mock/example_artwork_1.png
+SEA,SEATTLE,USA,47.61,-122.33,/img/mock/example_artwork_2.png
