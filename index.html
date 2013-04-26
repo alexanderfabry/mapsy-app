@@ -53,7 +53,14 @@ function mapsy() {
                 
 
 
-    var mapsy_calledOn_mouseMoveArtwork =  function(d){ 
+    
+
+    // setup map and fill it with data
+    d3.csv("cities.csv", function(error, data) {
+
+
+
+var mapsy_calledOn_mouseMoveArtwork =  function(d){ 
 
       console.log("me here: "+d.img);
 
@@ -75,10 +82,7 @@ function mapsy() {
     var mapsy_calledOn_mouseOutArtwork =  function(d){ 
         div.transition().duration(100).style("opacity", 1e-6);
     }
-
-    // setup map and fill it with data
-    d3.csv("cities.csv", function(error, data) {
-
+    
       var imgs = svg.selectAll("image").data([0]);
             imgs.enter()
             .append("svg:image")
