@@ -1,18 +1,25 @@
 import os
 from flask import Flask
-from jinja2 import Environment, PackageLoader
+import jinja2
 
 env = Environment(loader=PackageLoader('app', 'templates'))
 template = env.get_template('test_template.html')
 
 app = Flask(__name__)
 
-def get_resource_as_string(name, charset='utf-8'):
-    with app.open_resource(name) as f:
-        return f.read().decode(charset)
-        
-app.jinja_env.globals['get_resource_as_string'] = get_resource_as_string
+def include_file(name):
+    return jinja2.Markup(loader.get_source(env, name)[0])
+
+loader = jinja2.PackageLoader(__name__, 'templates')
+env = jinja2.Environment(loader=loader)
+env.globals['include_file'] = include_file
 
 @app.route('/')
 def hello():
     return template.render(the='variables', go='here')
+
+
+
+
+
+
