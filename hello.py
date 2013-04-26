@@ -69,8 +69,8 @@ def noindex(f):
 def hello():
     return template.render(css_styles=css.render(), mapsy_js=mapsy_js.render())
 
-@app.route('/shows.css')
-@contenttypetextplain
+@app.route('/mapsy.css')
+@contenttypecss
 @noindex
-def show_post():
-    return "hello"
+def render_css():
+    return "#you-are-hear{ background: black; }"
