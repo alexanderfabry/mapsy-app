@@ -52,6 +52,7 @@ function mapsy() {
                 .selectAll("div#test-id")
                 .style("opacity", "1");
                 
+      
 
     d3.json("artsy.json", function(error2, artworks) {
 
@@ -152,7 +153,7 @@ var jsonCircles = [
               }];
 
       g.selectAll("circle")
-           .data(data)
+           .data(jsonCircles)
            .enter()
            .append("circle")
            .attr("cx", function(d) {
