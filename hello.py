@@ -11,4 +11,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return template.render(the='variables', go='here')
+    return template.render(css_styles='#all{ border:1px solid black; }')
