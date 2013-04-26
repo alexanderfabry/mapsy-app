@@ -3,6 +3,10 @@
 A beautiful visualisation tool for a quick geographical overview of artworks on Artsy. 
 
 
+# Hallo, lieber Besucher. It's demo time!
+
+Check it out, it's on Heroku: [http://mapsy-app.herokuapp.com](http://mapsy-app.herokuapp.com)
+
 # Description
 
 ```
