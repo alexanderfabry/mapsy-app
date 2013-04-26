@@ -43,48 +43,9 @@ function mapsy() {
                 .selectAll("div.artwork")
                 .style("opacity", "1");
 
-
     var testdiv = d3.select("body")
                 .selectAll("div#test-id")
                 .style("opacity", "1");
-
-                var testdiv2 = d3.select("body")
-                .selectAll("div#test-id")
-                .style("opacity", "1");
-                
-
-
-    d3.json("artsy.json", function(error2, artworks) {
-
-/*
-      g.selectAll("circle")
-           .data(artworks)
-           .enter()
-           .append("circle")
-           .attr("cx", function(d) {
-                   return projection([d.lon, d.lat])[0];
-           })
-           .attr("cy", function(d) {
-                   return projection([d.lon, d.lat])[1];
-           })
-           .attr("r", 15)
-           .on("mouseover", function(d){
-                // call the event
-                console.log("a mouseover");
-           })
-           .on("mouseout", function(d){
-                // call the event
-                console.log("a mouseout");
-           })
-           .on("mousemove", function(d){
-                // call the event
-                console.log("a mousemove");
-           })
-           .style("fill", "white");
-           */
-
-    });
-
     
 
     // setup map and fill it with data
@@ -94,7 +55,7 @@ function mapsy() {
 
 var mapsy_calledOn_mouseMoveArtwork =  function(d){ 
 
-      console.log("me here (3) hello: "+d.img);
+      console.log("me here (4) hello: "+d.img);
 
       div
             .text(d3.event.pageX + ", " + d3.event.pageY)
@@ -125,35 +86,8 @@ var mapsy_calledOn_mouseMoveArtwork =  function(d){
                 .attr("height", "293");
 
 
-var jsonCircles = [
-                { 
-                  "img":"/img/mock/example_artwork_1.png",
-                   "x_axis": 30,
-                 "y_axis": 30,
-                 "radius": 20,
-                 "color" : "green",
-                 "lat":-6.13,
-                "lon":39.31
-                }, {
-                  "img":"/img/mock/example_artwork_2.png",
-                  "lat":35.68,
-                  "lon":139.76,
-                 "x_axis": 70,
-                 "y_axis": 70,
-                 "radius": 20,
-                 "color" : "purple"
-                }, {     
-                  "img":"/img/mock/example_artwork_3.png",
-                "lat":-36.85,
-                "lon":174.78,
-                 "x_axis": 110,
-                 "y_axis": 100,
-                 "radius": 20,
-                   "color" : "red"
-              }];
-
       g.selectAll("circle")
-           .data(jsonCircles)
+           .data(data)
            .enter()
            .append("circle")
            .attr("cx", function(d) {
