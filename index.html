@@ -91,7 +91,7 @@ function mapsy() {
 
 var jsonCircles = [
                 { 
-                  "img" : "/img/mock/example_artwork_1.png",
+                  "img":"/img/mock/example_artwork_1.png",
                    "x_axis": 30,
                  "y_axis": 30,
                  "radius": 20,
@@ -99,7 +99,7 @@ var jsonCircles = [
                  "lat":-6.13,
                 "long":39.31
                 }, {
-                  "img" : "/img/mock/example_artwork_2.png",
+                  "img":"/img/mock/example_artwork_2.png",
                   "lat":35.68,
                   "long":139.76,
                  "x_axis": 70,
@@ -107,7 +107,7 @@ var jsonCircles = [
                  "radius": 20,
                  "color" : "purple"
                 }, {     
-                  "img" : "/img/mock/example_artwork_3.png",
+                  "img":"/img/mock/example_artwork_3.png",
                 "lat":-36.85,
                 "long":174.78,
                  "x_axis": 110,
@@ -127,9 +127,18 @@ var jsonCircles = [
                    return projection([d.lon, d.lat])[1];
            })
            .attr("r", 15)
-           .on("mouseover", mapsy_calledOn_mouseOverArtwork)
-           .on("mouseout", mapsy_calledOn_mouseOutArtwork)
-           .on("mousemove", mapsy_calledOn_mouseMoveArtwork)
+           .on("mouseover", function(d){
+                // call the event
+                mapsy_calledOn_mouseMoveOverArtwork(d);
+           })
+           .on("mouseout", function(d){
+                // call the event
+                mapsy_calledOn_mouseOutArtwork(d);
+           })
+           .on("mousemove", function(d){
+                // call the event
+                mapsy_calledOn_mouseMoveArtwork(d);
+           })
            .style("fill", "white");
     });
 
