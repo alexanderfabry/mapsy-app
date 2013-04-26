@@ -47,6 +47,10 @@ function mapsy() {
     var testdiv = d3.select("body")
                 .selectAll("div#test-id")
                 .style("opacity", "1");
+
+                var testdiv2 = d3.select("body")
+                .selectAll("div#test-id")
+                .style("opacity", "1");
                 
 
     d3.json("artsy.json", function(error2, artworks) {
