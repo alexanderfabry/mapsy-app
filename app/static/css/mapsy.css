@@ -1,0 +1,64 @@
+div#header {
+	padding-bottom: 5px;
+}
+
+#all {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#footer {
+	height:50px;
+	background: black;
+}
+
+
+div#by-artsy {
+	padding-top:1em;
+}
+
+div#by-artsy h2 {
+	font-family: "Georgia", "Times New Roman";
+	font-size: 0.6em;
+	font-weight: normal;
+	text-align: center;
+	color: white;
+}
+
+div#logo {
+	width:120px;
+}
+
+div.artwork {
+	text-align: center;
+	border: 4px solid black;
+	width: 150px;
+	height: 500px;
+	position: fixed;
+	border: 2px solid  black;
+	pointer-events: none;
+	background-color: white;
+}
+
+div.artwork-button {
+	background: black;
+	padding-bottom:1em;
+}
+
+div.artwork-button a {
+	font-family: "Georgia";
+	color: white;
+	font-size:0.8em;
+}
+
+div#map-container {
+	border: 4px solid black;
+	
+}
+
+path {
+  stroke: white;
+  stroke-width: 0.25px;
+  fill: #111;
+}
