@@ -1,0 +1,26 @@
+var jsonCircles = [
+                { 
+                  "img":"/img/mock/example_artwork_1.png",
+                   "x_axis": 30,
+                 "y_axis": 30,
+                 "radius": 20,
+                 "color" : "green",
+                 "lat":-6.13,
+                "long":39.31
+                }, {
+                  "img":"/img/mock/example_artwork_2.png",
+                  "lat":35.68,
+                  "long":139.76,
+                 "x_axis": 70,
+                 "y_axis": 70,
+                 "radius": 20,
+                 "color" : "purple"
+                }, {     
+                  "img":"/img/mock/example_artwork_3.png",
+                "lat":-36.85,
+                "long":174.78,
+                 "x_axis": 110,
+                 "y_axis": 100,
+                 "radius": 20,
+                   "color" : "red"
+              }];

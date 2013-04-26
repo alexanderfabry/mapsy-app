@@ -62,7 +62,7 @@ function mapsy() {
 
 var mapsy_calledOn_mouseMoveArtwork =  function(d){ 
 
-      console.log("me here: "+d.img);
+      console.log("me here (2) hello: "+d.img);
 
       div
             .text(d3.event.pageX + ", " + d3.event.pageY)
@@ -82,7 +82,7 @@ var mapsy_calledOn_mouseMoveArtwork =  function(d){
     var mapsy_calledOn_mouseOutArtwork =  function(d){ 
         div.transition().duration(100).style("opacity", 1e-6);
     }
-    
+
       var imgs = svg.selectAll("image").data([0]);
             imgs.enter()
             .append("svg:image")
