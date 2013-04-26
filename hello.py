@@ -42,9 +42,9 @@ def contenttypetextplain(f):
     return decorated_function
 
 def contenttypejavascript(f):
-    """This decorator passes Content-Type: text/plain"""
+    """This decorator passes Content-Type: application/x-javascript; charset=utf-8 """
     @wraps(f)
-    @add_response_headers({'Content-Type': 'text/plain'})
+    @add_response_headers({'Content-Type': 'application/x-javascript; charset=utf-8'})
     def decorated_function(*args, **kwargs):
         return f(*args, **kwargs)
     return decorated_function
@@ -68,6 +68,12 @@ def noindex(f):
 @app.route('/')
 def hello():
     return template.render(css_styles=css.render(), mapsy_js=mapsy_js.render())
+
+@app.route('/mapsy.js')
+@contenttypejavascript
+@noindex
+def render_js():
+    return "/* javascript comment */"
 
 @app.route('/mapsy.css')
 @contenttypecss
