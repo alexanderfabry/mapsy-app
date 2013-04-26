@@ -107,7 +107,7 @@ var jsonCircles = [
                    "color" : "red"
               }];
 
-d3.select("body").append("svg").attr("width", 200).attr("height", 200).selectAll("circle").data(jsonCircles).enter().append("circle");
+svg.selectAll("circle").data(jsonCircles).enter().append("circle");
 
 
       g.selectAll("circle")
