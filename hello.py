@@ -4,6 +4,7 @@ from jinja2 import Environment, PackageLoader
 
 env = Environment(loader=PackageLoader('app', 'templates'))
 template = env.get_template('test_template.html')
+css = env.get_template('mapsy.css')
 
 app = Flask(__name__)
 
