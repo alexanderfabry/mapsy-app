@@ -55,7 +55,7 @@ function mapsy() {
 
     var mapsy_calledOn_mouseMoveArtwork =  function(d){ 
 
-      console.log("me here: "+d.lat);
+      console.log("me here: "+d.img);
 
       div
             .text(d3.event.pageX + ", " + d3.event.pageY)
@@ -91,6 +91,7 @@ function mapsy() {
 
 var jsonCircles = [
                 { 
+                  "img" : "/img/mock/example_artwork_1.png",
                    "x_axis": 30,
                  "y_axis": 30,
                  "radius": 20,
@@ -98,6 +99,7 @@ var jsonCircles = [
                  "lat":-6.13,
                 "long":39.31
                 }, {
+                  "img" : "/img/mock/example_artwork_2.png",
                   "lat":35.68,
                   "long":139.76,
                  "x_axis": 70,
@@ -105,6 +107,7 @@ var jsonCircles = [
                  "radius": 20,
                  "color" : "purple"
                 }, {     
+                  "img" : "/img/mock/example_artwork_3.png",
                 "lat":-36.85,
                 "long":174.78,
                  "x_axis": 110,
