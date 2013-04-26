@@ -5,7 +5,7 @@ A beautiful visualisation tool for a quick geographical overview of artworks on 
 
 # Hallo, lieber Besucher. It's demo time!
 
-Check it out, it's on Heroku: [http://mapsy-app.herokuapp.com](http://mapsy-app.herokuapp.com)
+Still prototypin', but check it out, it's on Heroku: [http://mapsy-app.herokuapp.com](http://mapsy-app.herokuapp.com)
 
 # Description
 
