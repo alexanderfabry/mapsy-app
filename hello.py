@@ -11,4 +11,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Hello from Mapsy!'
+    return template.render(the='variables', go='here')
